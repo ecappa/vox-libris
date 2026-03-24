@@ -18,11 +18,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"
+import { useVoxPublicConfig } from "@/components/vox-config-provider"
 import { cn } from "@/lib/utils"
-import {
-  RAGFLOW_ASSISTANT_PRESETS,
-  resolvePresetChatId,
-} from "@/lib/ragflow-chat-presets"
+import { resolvePresetForChatId } from "@/lib/vox-public-config"
 import {
   chatCompletionStream,
   createChatSession,
@@ -133,6 +131,7 @@ export function RagflowChatView({
   onClose,
   onChangeChat,
 }: RagflowChatViewProps) {
+  const { assistants } = useVoxPublicConfig()
   const [messages, setMessages] = React.useState<ChatMessage[]>([])
   const [input, setInput] = React.useState("")
   const [slugFilter, setSlugFilter] = React.useState("")
@@ -155,7 +154,7 @@ export function RagflowChatView({
     el.scrollTo({ top: el.scrollHeight, behavior: "smooth" })
   }, [messages, thinking])
 
-  const preset = resolvePresetChatId(chatId)
+  const preset = resolvePresetForChatId(assistants, chatId)
 
   const buildExtras = React.useCallback((): CompletionExtras => {
     const out: CompletionExtras = {}
@@ -322,9 +321,7 @@ export function RagflowChatView({
         <div className="flex flex-wrap items-center gap-2 sm:justify-end">
           <Select
             value={
-              RAGFLOW_ASSISTANT_PRESETS.some((p) => p.id === chatId)
-                ? chatId
-                : "__custom__"
+              assistants.some((p) => p.id === chatId) ? chatId : "__custom__"
             }
             onValueChange={(v) => {
               if (v !== "__custom__") onChangeChat(v)
@@ -334,7 +331,7 @@ export function RagflowChatView({
               <SelectValue placeholder="Choisir un assistant" />
             </SelectTrigger>
             <SelectContent className="rounded-xl">
-              {RAGFLOW_ASSISTANT_PRESETS.map((p) => (
+              {assistants.map((p) => (
                 <SelectItem key={p.id} value={p.id} className="rounded-lg">
                   {p.label}
                 </SelectItem>

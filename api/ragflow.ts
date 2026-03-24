@@ -2,6 +2,14 @@ import type { VercelRequest, VercelResponse } from "@vercel/node"
 import { Readable } from "node:stream"
 import { pipeline } from "node:stream/promises"
 
+import {
+  getGatewaySecret,
+  isAllowedRagflowProxy,
+  parseCookieHeader,
+  SESSION_COOKIE_NAME,
+  verifySessionToken,
+} from "./lib/ragflow-gateway"
+
 const RAGFLOW_BASE = "https://ragflow.cappasoft.cloud/api/v1"
 
 function resolveRagflowPath(req: VercelRequest, pathname: string): string {
@@ -28,6 +36,24 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       .json({ error: "RAGFLOW_ADMIN_API_KEY not configured" })
   }
 
+  const gatewaySecret = getGatewaySecret()
+  if (!gatewaySecret) {
+    return res.status(500).json({
+      error: "Gateway misconfigured",
+      detail: "VOX_GATEWAY_SECRET or RAGFLOW_ADMIN_API_KEY required",
+    })
+  }
+
+  const hdrCookie =
+    typeof req.headers.cookie === "string" ? req.headers.cookie : undefined
+  const cookieTok = parseCookieHeader(hdrCookie, SESSION_COOKIE_NAME)
+  if (!verifySessionToken(cookieTok, gatewaySecret)) {
+    return res.status(401).json({
+      error: "Session required",
+      hint: "GET /api/session with credentials: include",
+    })
+  }
+
   const url = req.url ?? ""
   const [pathname, rawQs] = url.split("?", 2)
 
@@ -40,6 +66,14 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
   try {
     const method = (req.method ?? "GET").toUpperCase()
+    const pathOnly = ragflowPath.split("?")[0].replace(/\/+$/, "") || ""
+    if (!isAllowedRagflowProxy(method, pathOnly)) {
+      return res.status(403).json({
+        error: "Forbidden",
+        detail: "This RAGFlow route is not exposed through the gateway",
+      })
+    }
+
     const bodyStr =
       req.body == null
         ? ""

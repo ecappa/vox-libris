@@ -17,6 +17,8 @@ export function NavMain({
     url: string
     icon?: React.ReactNode
     ragflowChatId?: string
+    /** Entrée non branchée (ex. mode à venir) */
+    comingSoon?: boolean
   }[]
   onDashboard: () => void
   onOpenDialogue: (chatId: string) => void
@@ -41,10 +43,18 @@ export function NavMain({
             <SidebarMenuItem key={item.title}>
               <SidebarMenuButton
                 tooltip={item.title}
-                disabled={!item.ragflowChatId}
-                className={!item.ragflowChatId ? "opacity-55" : ""}
+                disabled={Boolean(item.comingSoon)}
+                className={
+                  item.comingSoon
+                    ? "opacity-50"
+                    : !item.ragflowChatId
+                      ? "opacity-80"
+                      : undefined
+                }
                 onClick={() => {
-                  if (item.ragflowChatId) onOpenDialogue(item.ragflowChatId)
+                  if (item.ragflowChatId && !item.comingSoon) {
+                    onOpenDialogue(item.ragflowChatId)
+                  }
                 }}
               >
                 {item.icon}

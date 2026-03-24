@@ -33,7 +33,9 @@ interface ApiResponse<T> {
 }
 
 export async function fetchDatasets(): Promise<RagflowDataset[]> {
-  const res = await fetch(`${API_BASE}/datasets?page=1&page_size=100`)
+  const res = await fetch(`${API_BASE}/datasets?page=1&page_size=100`, {
+    credentials: "include",
+  })
   const json: ApiResponse<RagflowDataset[]> = await res.json()
   if (json.code !== 0) throw new Error(`RAGFlow error code ${json.code}`)
   return json.data
@@ -45,7 +47,8 @@ export async function fetchDocuments(
   pageSize = 200
 ): Promise<{ docs: RagflowDocument[]; total: number }> {
   const res = await fetch(
-    `${API_BASE}/datasets/${datasetId}/documents?page=${page}&page_size=${pageSize}`
+    `${API_BASE}/datasets/${datasetId}/documents?page=${page}&page_size=${pageSize}`,
+    { credentials: "include" }
   )
   const json: ApiResponse<{ docs: RagflowDocument[]; total: number }> =
     await res.json()

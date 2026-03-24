@@ -26,6 +26,7 @@ export async function createChatSession(
 ): Promise<string> {
   const res = await fetch(`${API_BASE}/chats/${chatId}/sessions`, {
     method: "POST",
+    credentials: "include",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ name }),
   })
@@ -49,6 +50,7 @@ export async function chatCompletionNonStream(
 ): Promise<{ answer: string; reference: RagflowReference | null }> {
   const res = await fetch(`${API_BASE}/chats/${chatId}/completions`, {
     method: "POST",
+    credentials: "include",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
       question,
@@ -89,6 +91,7 @@ export async function chatCompletionStream(
 ): Promise<void> {
   const res = await fetch(`${API_BASE}/chats/${chatId}/completions`, {
     method: "POST",
+    credentials: "include",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
       question,

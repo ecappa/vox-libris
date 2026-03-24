@@ -26,31 +26,7 @@ import {
   ScrollTextIcon,
   FeatherIcon,
 } from "lucide-react"
-import { RAGFLOW_ASSISTANT_PRESETS } from "@/lib/ragflow-chat-presets"
-
-const [presetJeune, presetErudit] = RAGFLOW_ASSISTANT_PRESETS
-
-const navMain = [
-  {
-    title: "Mode Érudit",
-    url: "#",
-    icon: <BookOpenIcon />,
-    ragflowChatId: presetErudit.id,
-  },
-  {
-    title: "Mode Apprentissage",
-    url: "#",
-    icon: <GraduationCapIcon />,
-  },
-  {
-    title: "Mode Jeune",
-    url: "#",
-    icon: <SparklesIcon />,
-    ragflowChatId: presetJeune.id,
-  },
-  { title: "Corpus", url: "#", icon: <LibraryIcon /> },
-  { title: "Recherche", url: "#", icon: <SearchIcon /> },
-]
+import { useVoxPublicConfig } from "@/components/vox-config-provider"
 
 const navSecondary = [
   { title: "Réglages", url: "#", icon: <Settings2Icon /> },
@@ -83,6 +59,33 @@ export function AppSidebar({
   onOpenDialogue,
   ...props
 }: AppSidebarProps) {
+  const { assistants } = useVoxPublicConfig()
+  const erudit = assistants.find((a) => /érudit/i.test(a.label))
+  const jeune = assistants.find((a) => /jeune/i.test(a.label))
+
+  const navMain = [
+    {
+      title: "Mode Érudit",
+      url: "#",
+      icon: <BookOpenIcon />,
+      ragflowChatId: erudit?.id,
+    },
+    {
+      title: "Mode Apprentissage",
+      url: "#",
+      icon: <GraduationCapIcon />,
+      comingSoon: true as const,
+    },
+    {
+      title: "Mode Jeune",
+      url: "#",
+      icon: <SparklesIcon />,
+      ragflowChatId: jeune?.id,
+    },
+    { title: "Corpus", url: "#", icon: <LibraryIcon /> },
+    { title: "Recherche", url: "#", icon: <SearchIcon /> },
+  ]
+
   return (
     <Sidebar collapsible="offcanvas" {...props}>
       <SidebarHeader>
