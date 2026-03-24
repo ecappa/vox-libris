@@ -4,12 +4,15 @@ import { SiteHeader } from "@/components/site-header"
 import { SectionCards } from "@/components/section-cards"
 import { ChartAreaInteractive } from "@/components/chart-area-interactive"
 import { DataTable } from "@/components/data-table"
+import { RagflowChatView } from "@/components/ragflow-chat-view"
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar"
+import { useAppChatRoute } from "@/hooks/use-app-chat-route"
 import { useDatasets, useDocuments } from "@/hooks/use-ragflow"
 import { AUTHORS, resolveTitle } from "@/lib/authors"
 import { FadeIn } from "@/components/fade-in"
 
 export function App() {
+  const { chatId, setChatId, isChatRoute } = useAppChatRoute()
   const [selectedAuthorId, setSelectedAuthorId] = React.useState("victor-hugo")
   const [tableRevealEpoch, setTableRevealEpoch] = React.useState(0)
   const selectedAuthor =
@@ -50,6 +53,28 @@ export function App() {
     {} as Record<string, number>
   )
 
+  const sidebarProps = {
+    selectedAuthorId,
+    onSelectAuthor: setSelectedAuthorId,
+    onDashboard: () => setChatId(null),
+    onOpenDialogue: (id: string) => setChatId(id),
+  }
+
+  if (isChatRoute && chatId) {
+    return (
+      <SidebarProvider>
+        <AppSidebar {...sidebarProps} />
+        <SidebarInset className="flex min-h-0 flex-1 flex-col overflow-hidden">
+          <RagflowChatView
+            chatId={chatId}
+            onClose={() => setChatId(null)}
+            onChangeChat={setChatId}
+          />
+        </SidebarInset>
+      </SidebarProvider>
+    )
+  }
+
   const tableData = docs.map((doc, i) => ({
     id: i + 1,
     header: resolveTitle(selectedAuthor.id, doc.name),
@@ -69,10 +94,7 @@ export function App() {
 
   return (
     <SidebarProvider>
-      <AppSidebar
-        selectedAuthorId={selectedAuthorId}
-        onSelectAuthor={setSelectedAuthorId}
-      />
+      <AppSidebar {...sidebarProps} />
       <SidebarInset>
         <SiteHeader
           selectedAuthorId={selectedAuthorId}

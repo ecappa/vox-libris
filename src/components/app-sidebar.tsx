@@ -26,11 +26,28 @@ import {
   ScrollTextIcon,
   FeatherIcon,
 } from "lucide-react"
+import { RAGFLOW_ASSISTANT_PRESETS } from "@/lib/ragflow-chat-presets"
+
+const [presetJeune, presetErudit] = RAGFLOW_ASSISTANT_PRESETS
 
 const navMain = [
-  { title: "Mode Érudit", url: "#", icon: <BookOpenIcon /> },
-  { title: "Mode Apprentissage", url: "#", icon: <GraduationCapIcon /> },
-  { title: "Mode Jeune", url: "#", icon: <SparklesIcon /> },
+  {
+    title: "Mode Érudit",
+    url: "#",
+    icon: <BookOpenIcon />,
+    ragflowChatId: presetErudit.id,
+  },
+  {
+    title: "Mode Apprentissage",
+    url: "#",
+    icon: <GraduationCapIcon />,
+  },
+  {
+    title: "Mode Jeune",
+    url: "#",
+    icon: <SparklesIcon />,
+    ragflowChatId: presetJeune.id,
+  },
   { title: "Corpus", url: "#", icon: <LibraryIcon /> },
   { title: "Recherche", url: "#", icon: <SearchIcon /> },
 ]
@@ -55,11 +72,15 @@ const authorItems = [
 interface AppSidebarProps extends React.ComponentProps<typeof Sidebar> {
   selectedAuthorId: string
   onSelectAuthor: (id: string) => void
+  onDashboard: () => void
+  onOpenDialogue: (chatId: string) => void
 }
 
 export function AppSidebar({
   selectedAuthorId,
   onSelectAuthor,
+  onDashboard,
+  onOpenDialogue,
   ...props
 }: AppSidebarProps) {
   return (
@@ -85,7 +106,11 @@ export function AppSidebar({
         </SidebarMenu>
       </SidebarHeader>
       <SidebarContent>
-        <NavMain items={navMain} />
+        <NavMain
+          items={navMain}
+          onDashboard={onDashboard}
+          onOpenDialogue={onOpenDialogue}
+        />
         <NavDocuments
           items={authorItems}
           selectedId={selectedAuthorId}
