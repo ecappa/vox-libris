@@ -52,6 +52,8 @@ await pipeline(Readable.fromWeb(response.body), res)
 ```
 
 7. **Ne jamais exposer de secrets** dans les entrées trace — logger seulement l'existence (`OK` / `MISSING`), jamais la valeur.
+8. **ASCII uniquement dans les messages trace** — pas de `→`, `←`, `…` ni aucun caractère non-ASCII. Utiliser `->`, `<-`, `...`. Le header `X-Vox-Debug` (streaming) rejette tout caractère hors `\x20-\x7E`.
+9. **Utiliser `trace.toHeaderValue()`** (pas `JSON.stringify(trace.toJSON())`) pour le header `X-Vox-Debug`.
 
 ## Format du debug
 

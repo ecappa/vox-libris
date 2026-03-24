@@ -55,7 +55,7 @@ export function sendJson(
   data: unknown,
   trace: RequestTrace,
 ): void {
-  trace.log(`← ${status}`)
+  trace.log(`<- ${status}`)
   const debug = trace.toJSON()
   const body =
     typeof data === "object" && data !== null && !Array.isArray(data)

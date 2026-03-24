@@ -99,7 +99,7 @@ export default defineHandler(async (req, res, trace) => {
   }
   if (bodyStr.length > 0) fetchHeaders["Content-Type"] = "application/json"
 
-  trace.log("fetching RAGFlow…")
+  trace.log("fetching RAGFlow...")
 
   const response = await fetch(targetUrl, {
     method,
@@ -116,7 +116,7 @@ export default defineHandler(async (req, res, trace) => {
     if (ct) res.setHeader("Content-Type", ct)
     res.setHeader("Cache-Control", "no-cache")
     res.setHeader("X-Accel-Buffering", "no")
-    res.setHeader("X-Vox-Debug", JSON.stringify(trace.toJSON()))
+    res.setHeader("X-Vox-Debug", trace.toHeaderValue())
     try {
       await pipeline(
         Readable.fromWeb(

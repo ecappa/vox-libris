@@ -125,7 +125,7 @@ async function forwardToRagflow(
   const streamRequest = isCompletionStreamRequest(method, pathWithQuery, body)
   trace.log(`stream: ${streamRequest}`)
 
-  trace.log("fetching RAGFlow…")
+  trace.log("fetching RAGFlow...")
   const response = await fetch(targetUrl, {
     method,
     headers,
@@ -140,7 +140,7 @@ async function forwardToRagflow(
     if (ct) res.setHeader("Content-Type", ct)
     res.setHeader("Cache-Control", "no-cache")
     res.setHeader("X-Accel-Buffering", "no")
-    res.setHeader("X-Vox-Debug", JSON.stringify(trace.toJSON()))
+    res.setHeader("X-Vox-Debug", trace.toHeaderValue())
     try {
       await pipeline(
         Readable.fromWeb(response.body as import("stream/web").ReadableStream),

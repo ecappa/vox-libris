@@ -10,7 +10,7 @@ export class RequestTrace {
 
   constructor(route: string) {
     this.route = route
-    this.log(`→ ${route}`)
+    this.log(`-> ${route}`)
   }
 
   log(msg: string): void {
@@ -29,5 +29,11 @@ export class RequestTrace {
       ts: new Date(this.t0).toISOString(),
       entries: [...this.entries],
     }
+  }
+
+  /** Safe for HTTP headers (ASCII-only, no newlines). */
+  toHeaderValue(): string {
+    const raw = JSON.stringify(this.toJSON())
+    return raw.replace(/[^\x20-\x7E]/g, "?")
   }
 }
