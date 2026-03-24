@@ -12,9 +12,9 @@ export function App() {
       <AppSidebar />
       <SidebarInset>
         <SiteHeader />
-        <div className="flex flex-1 flex-col gap-4 p-4 pt-0">
+        <div className="flex flex-1 flex-col gap-8 p-8 pt-0">
           <SectionCards />
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 px-4 pb-4 w-full">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 px-4 pb-8 w-full">
             <ChartAreaInteractive />
             <DataTable data={tableData} />
           </div>
