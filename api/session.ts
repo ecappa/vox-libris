@@ -1,31 +1,33 @@
-import type { VercelRequest, VercelResponse } from "@vercel/node"
+import { defineHandler, sendJson } from "./_lib/handler"
 import {
   buildSessionSetCookieHeader,
   getGatewaySecret,
   issueSessionToken,
-} from "./lib/ragflow-gateway"
+} from "./_lib/ragflow-gateway"
 
-/**
- * Émet un cookie de session signé (aucune clé RAGFlow exposée au client).
- * Le navigateur doit appeler cette route avec credentials: 'include' avant le proxy RAGFlow.
- */
-export default function handler(req: VercelRequest, res: VercelResponse) {
-  if (req.method !== "GET") {
-    res.setHeader("Allow", "GET")
-    return res.status(405).json({ error: "Method not allowed" })
-  }
+export default defineHandler(
+  async (_req, res, trace) => {
+    const secret = getGatewaySecret()
+    trace.log(secret ? "gateway secret: OK" : "gateway secret: MISSING")
 
-  const secret = getGatewaySecret()
-  if (!secret) {
-    return res.status(500).json({
-      error: "Gateway misconfigured",
-      detail: "VOX_GATEWAY_SECRET or RAGFLOW_ADMIN_API_KEY must be set server-side",
-    })
-  }
+    if (!secret) {
+      return sendJson(res, 500, {
+        error: "Gateway misconfigured",
+        detail:
+          "VOX_GATEWAY_SECRET or RAGFLOW_ADMIN_API_KEY must be set server-side",
+      }, trace)
+    }
 
-  const token = issueSessionToken(secret)
-  const secure = process.env.VERCEL === "1" || process.env.NODE_ENV === "production"
-  res.setHeader("Set-Cookie", buildSessionSetCookieHeader(token, secure))
-  res.setHeader("Cache-Control", "no-store")
-  return res.status(204).end()
-}
+    const token = issueSessionToken(secret)
+    trace.log("session token issued")
+
+    const secure =
+      process.env.VERCEL === "1" || process.env.NODE_ENV === "production"
+    trace.log(`cookie: secure=${secure}`)
+
+    res.setHeader("Set-Cookie", buildSessionSetCookieHeader(token, secure))
+    res.setHeader("Cache-Control", "no-store")
+    return sendJson(res, 200, { ok: true }, trace)
+  },
+  { methods: ["GET"] },
+)

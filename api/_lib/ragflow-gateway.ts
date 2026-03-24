@@ -89,7 +89,7 @@ export function parseCookieHeader(
 }
 
 /**
- * Seules les routes nécessaires au SPA sont exposées (pas d’admin arbitraire).
+ * Seules les routes nécessaires au SPA sont exposées (pas d'admin arbitraire).
  */
 export function isAllowedRagflowProxy(
   method: string,
@@ -139,7 +139,6 @@ export function getPublicAssistants(
   }
 }
 
-/** Alias Vercel : uniquement variables d’environnement hébergées. */
 export function getPublicAssistantsFromEnv(): PublicAssistant[] {
   return getPublicAssistants()
 }

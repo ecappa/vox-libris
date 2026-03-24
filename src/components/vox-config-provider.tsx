@@ -23,7 +23,7 @@ async function establishSession(): Promise<void> {
     method: "GET",
     credentials: "include",
   })
-  if (!res.ok && res.status !== 204) {
+  if (!res.ok) {
     throw new Error(`Session gateway: ${res.status}`)
   }
 }

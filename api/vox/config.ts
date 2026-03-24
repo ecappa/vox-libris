@@ -1,18 +1,16 @@
-import type { VercelRequest, VercelResponse } from "@vercel/node"
-import { getPublicAssistantsFromEnv } from "../lib/ragflow-gateway"
+import { defineHandler, sendJson } from "../_lib/handler"
+import { getPublicAssistantsFromEnv } from "../_lib/ragflow-gateway"
 
-/**
- * Configuration lisible par le front (IDs d’assistants, libellés) — pas de secrets.
- */
-export default function handler(req: VercelRequest, res: VercelResponse) {
-  if (req.method !== "GET") {
-    res.setHeader("Allow", "GET")
-    return res.status(405).json({ error: "Method not allowed" })
-  }
+export default defineHandler(
+  async (_req, res, trace) => {
+    const assistants = getPublicAssistantsFromEnv()
+    trace.log(`loaded ${assistants.length} assistant(s)`)
 
-  res.setHeader("Content-Type", "application/json")
-  res.setHeader("Cache-Control", "public, s-maxage=60, stale-while-revalidate=300")
-  return res.status(200).json({
-    assistants: getPublicAssistantsFromEnv(),
-  })
-}
+    res.setHeader(
+      "Cache-Control",
+      "public, s-maxage=60, stale-while-revalidate=300",
+    )
+    return sendJson(res, 200, { assistants }, trace)
+  },
+  { methods: ["GET"] },
+)

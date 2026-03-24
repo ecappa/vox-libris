@@ -1,0 +1,86 @@
+---
+description: Convention pour les fonctions backend Vercel et le middleware Vite local
+globs: api/**/*.ts, src/server/**/*.ts
+alwaysApply: false
+---
+
+# Backend Functions — Vercel + Vite Dev
+
+## Structure du répertoire
+
+```
+api/
+  _lib/            ← utilitaires partagés (préfixe _ = ignoré par Vercel)
+    trace.ts       ← RequestTrace (log cumulatif)
+    handler.ts     ← defineHandler + sendJson
+    ragflow-gateway.ts ← session, allowlist, assistants
+  package.json     ← OBLIGATOIRE : { "type": "commonjs" }
+  session.ts       ← GET /api/session
+  ragflow.ts       ← proxy RAGFlow (GET/POST)
+  vox/
+    config.ts      ← GET /api/vox/config
+src/server/
+  vox-backend-gateway.ts ← middleware Vite (même contrat)
+```
+
+## Règles strictes
+
+1. **`api/package.json`** doit contenir `{"type": "commonjs"}` — résout les erreurs ESM sur Vercel quand le root a `"type": "module"`.
+2. **Utilitaires dans `api/_lib/`** — le préfixe `_` empêche Vercel de les transformer en fonctions. JAMAIS de fichier utilitaire sans `_` dans `api/`.
+3. **Pas d'extension dans les imports** — `import { x } from "./_lib/handler"` (pas `.ts`, pas `.js`). CommonJS résout sans extension.
+4. **Chaque handler utilise `defineHandler()`** :
+
+```typescript
+import { defineHandler, sendJson } from "./_lib/handler"
+
+export default defineHandler(
+  async (req, res, trace) => {
+    trace.log("step description")
+    // ...
+    return sendJson(res, 200, { data: result }, trace)
+  },
+  { methods: ["GET"] },
+)
+```
+
+5. **Toute réponse JSON inclut la clé `debug`** via `sendJson()`. Ne jamais appeler `res.json()` directement.
+6. **Pour le streaming (SSE)**, mettre le trace dans le header `X-Vox-Debug` avant de pipe :
+
+```typescript
+res.setHeader("X-Vox-Debug", JSON.stringify(trace.toJSON()))
+await pipeline(Readable.fromWeb(response.body), res)
+```
+
+7. **Ne jamais exposer de secrets** dans les entrées trace — logger seulement l'existence (`OK` / `MISSING`), jamais la valeur.
+
+## Format du debug
+
+```json
+{
+  "debug": {
+    "route": "GET /api/session",
+    "total_ms": 12,
+    "ts": "2026-03-24T10:00:00.000Z",
+    "entries": [
+      { "t": 0, "msg": "→ GET /api/session" },
+      { "t": 1, "msg": "gateway secret: OK" },
+      { "t": 5, "msg": "← 200" }
+    ]
+  }
+}
+```
+
+## Middleware Vite local
+
+Le fichier `src/server/vox-backend-gateway.ts` doit respecter le même contrat :
+- Créer un `RequestTrace` par requête
+- Utiliser `sendJsonDev()` (miroir local de `sendJson`)
+- Même format `debug` dans chaque réponse JSON
+- Pour le streaming, `X-Vox-Debug` dans le header
+
+## Erreurs courantes à éviter
+
+- Ne PAS créer de fichier dans `api/` sans `_` s'il ne doit pas être une function Vercel
+- Ne PAS utiliser `import type` puis `import` du même module — un seul import
+- Ne PAS oublier `api/package.json` lors d'un nouveau projet
+- Ne PAS retourner 204 (no content) — toujours 200 avec body JSON pour avoir le `debug`
