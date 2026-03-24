@@ -106,7 +106,7 @@ function AnswerBody({
               key={i}
               type="button"
               onClick={() => onRefClick?.(refId)}
-              className="ml-0.5 inline-flex h-4 min-w-4 items-center justify-center rounded-sm border border-border bg-muted/60 px-1 align-super font-mono text-[0.55rem] leading-none text-muted-foreground transition-colors hover:bg-foreground hover:text-background"
+              className="ml-0.5 inline-flex h-4 min-w-4 cursor-pointer items-center justify-center rounded-sm border border-border bg-muted/60 px-1 align-super font-mono text-[0.55rem] leading-none text-muted-foreground transition-colors hover:bg-foreground hover:text-background"
               title={`Source ${refId}`}
             >
               {refId}
