@@ -70,6 +70,66 @@ function AnswerBody({ text }: { text: string }) {
   )
 }
 
+/**
+ * Révèle progressivement le texte pour un effet de typing naturel.
+ * Le texte cumulatif arrive via props ; l'affichage rattrape progressivement.
+ * Quand streaming passe à false, tout le texte restant est révélé.
+ */
+function TypewriterText({
+  text,
+  streaming,
+}: {
+  text: string
+  streaming: boolean
+}) {
+  const [revealed, setRevealed] = React.useState(streaming ? 0 : text.length)
+  const revealedRef = React.useRef(revealed)
+  const targetRef = React.useRef(text)
+  const rafRef = React.useRef(0)
+
+  targetRef.current = text
+
+  React.useEffect(() => {
+    if (!streaming) {
+      cancelAnimationFrame(rafRef.current)
+      rafRef.current = 0
+      revealedRef.current = text.length
+      setRevealed(text.length)
+      return
+    }
+
+    function tick() {
+      const cur = revealedRef.current
+      const target = targetRef.current.length
+      if (cur < target) {
+        const gap = target - cur
+        const step = Math.max(1, Math.min(5, Math.ceil(gap / 10)))
+        const next = Math.min(cur + step, target)
+        revealedRef.current = next
+        setRevealed(next)
+      }
+      rafRef.current = requestAnimationFrame(tick)
+    }
+
+    rafRef.current = requestAnimationFrame(tick)
+    return () => {
+      cancelAnimationFrame(rafRef.current)
+      rafRef.current = 0
+    }
+  }, [streaming, text.length])
+
+  const display = streaming ? text.slice(0, revealed) : text
+
+  return (
+    <>
+      <AnswerBody text={display} />
+      {streaming && revealed < text.length && (
+        <span className="ml-0.5 inline-block h-[1.1em] w-[2px] translate-y-[0.15em] animate-pulse bg-foreground/60" />
+      )}
+    </>
+  )
+}
+
 function ThinkingBubble() {
   return (
     <motion.div
@@ -205,15 +265,13 @@ export function RagflowChatView({
     try {
       const sid = await ensureSession()
       const extras = buildExtras()
-      let acc = ""
 
       await chatCompletionStream(
         chatId,
         sid,
         text,
         {
-          onDelta: (d) => {
-            acc += d
+          onDelta: (fullText) => {
             setThinking(false)
             setMessages((m) => {
               const has = m.some(
@@ -225,7 +283,7 @@ export function RagflowChatView({
                   {
                     role: "assistant",
                     id: assistantId,
-                    text: acc,
+                    text: fullText,
                     sources: [],
                     streaming: true,
                   },
@@ -233,7 +291,7 @@ export function RagflowChatView({
               }
               return m.map((msg) =>
                 msg.role === "assistant" && msg.id === assistantId
-                  ? { ...msg, text: acc, streaming: true }
+                  ? { ...msg, text: fullText, streaming: true }
                   : msg
               )
             })
@@ -244,7 +302,7 @@ export function RagflowChatView({
             setMessages((m) =>
               m.map((msg) =>
                 msg.role === "assistant" && msg.id === assistantId
-                  ? { ...msg, text: acc, sources, streaming: false }
+                  ? { ...msg, sources, streaming: false }
                   : msg
               )
             )
@@ -472,9 +530,12 @@ export function RagflowChatView({
                       )}
                     >
                       {msg.text ? (
-                        <AnswerBody text={msg.text} />
+                        <TypewriterText
+                          text={msg.text}
+                          streaming={!!msg.streaming}
+                        />
                       ) : msg.streaming ? (
-                        <span className="text-muted-foreground">…</span>
+                        <span className="text-muted-foreground">...</span>
                       ) : null}
                     </div>
                     {msg.sources.length > 0 && !msg.streaming && (
