@@ -27,16 +27,13 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
 
   const ragflowPath = ragflowPathFromRequest(req)
 
-  const queryString = new URLSearchParams()
-  for (const [k, v] of Object.entries(req.query)) {
-    if (k === "path") continue
-    if (v === undefined) continue
-    const values = Array.isArray(v) ? v : [v]
-    for (const item of values) {
-      if (item !== undefined) queryString.append(k, item)
-    }
-  }
-  const qs = queryString.toString()
+  // Ne pas utiliser req.query : Vercel y injecte `path` (catch-all) → RAGFlow renvoie 101 « Extra inputs ».
+  const qs = (() => {
+    const full = req.url ?? ""
+    const qIdx = full.indexOf("?")
+    if (qIdx === -1) return ""
+    return full.slice(qIdx + 1)
+  })()
   const targetUrl = `${RAGFLOW_BASE}/${ragflowPath}${qs ? `?${qs}` : ""}`
 
   try {
