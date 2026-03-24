@@ -12,10 +12,20 @@ import { FadeIn } from "@/components/fade-in"
 export function App() {
   const [selectedAuthorId, setSelectedAuthorId] = React.useState("victor-hugo")
   const [tableRevealEpoch, setTableRevealEpoch] = React.useState(0)
-  const selectedAuthor = AUTHORS.find((a) => a.id === selectedAuthorId) ?? AUTHORS[0]
+  const selectedAuthor =
+    AUTHORS.find((a) => a.id === selectedAuthorId) ?? AUTHORS[0]
 
-  const { datasets, loading: datasetsLoading, refresh: refreshDatasets } = useDatasets()
-  const { docs, total: totalDocs, loading: docsLoading, refresh: refreshDocs } = useDocuments(selectedAuthor.datasetId)
+  const {
+    datasets,
+    loading: datasetsLoading,
+    refresh: refreshDatasets,
+  } = useDatasets()
+  const {
+    docs,
+    total: totalDocs,
+    loading: docsLoading,
+    refresh: refreshDocs,
+  } = useDocuments(selectedAuthor.datasetId)
 
   const handleRefresh = React.useCallback(() => {
     refreshDatasets()
@@ -29,7 +39,7 @@ export function App() {
     return { author: a, dataset: ds }
   })
   const readyCount = datasetsWithDocs.filter(
-    (d) => d.dataset && d.dataset.document_count > 0,
+    (d) => d.dataset && d.dataset.document_count > 0
   ).length
 
   const statusCounts = docs.reduce(
@@ -37,7 +47,7 @@ export function App() {
       acc[d.run] = (acc[d.run] || 0) + 1
       return acc
     },
-    {} as Record<string, number>,
+    {} as Record<string, number>
   )
 
   const tableData = docs.map((doc, i) => ({

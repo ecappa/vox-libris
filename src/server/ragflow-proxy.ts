@@ -42,7 +42,12 @@ export function ragflowProxy(): Plugin {
           res.end(data)
         } catch (err) {
           res.statusCode = 502
-          res.end(JSON.stringify({ error: "RAGFlow proxy error", detail: String(err) }))
+          res.end(
+            JSON.stringify({
+              error: "RAGFlow proxy error",
+              detail: String(err),
+            })
+          )
         }
       })
     },

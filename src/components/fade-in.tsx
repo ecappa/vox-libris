@@ -1,7 +1,17 @@
 import * as React from "react"
+import { AnimatePresence, motion } from "motion/react"
+
 import { cn } from "@/lib/utils"
 
-const EXIT_MS = 150
+/** Courbe entrée (ease-out) — même famille que le reste du dashboard */
+const EASE_OUT = [0.22, 1, 0.36, 1] as const
+/** Courbe sortie — un peu plus marquée pour que la disparition se lise */
+const EASE_IN = [0.4, 0, 0.2, 1] as const
+
+function exitDurationSeconds(enterDurationMs: number) {
+  const fromEnter = (enterDurationMs / 1000) * 0.5
+  return Math.min(0.38, Math.max(0.24, fromEnter))
+}
 
 interface FadeInProps {
   children: React.ReactNode
@@ -12,7 +22,10 @@ interface FadeInProps {
   className?: string
   /** Change this value to re-trigger exit → enter */
   triggerKey?: string | number
-  /** Fires once the wrapper becomes visible (after delay / exit), for syncing child CSS animations */
+  /**
+   * Fires when the enter animation starts (after delay), matching the previous
+   * CSS implementation (on becoming visible), for syncing child animations.
+   */
   onEntered?: () => void
 }
 
@@ -24,55 +37,53 @@ export function FadeIn({
   triggerKey,
   onEntered,
 }: FadeInProps) {
-  const [visible, setVisible] = React.useState(false)
-  const isInitial = React.useRef(true)
-  const delayRef = React.useRef(delay)
-  delayRef.current = delay
+  const presenceKey =
+    triggerKey !== undefined ? String(triggerKey) : "fade-in-static"
+  const exitSec = exitDurationSeconds(duration)
   const onEnteredRef = React.useRef(onEntered)
-  onEnteredRef.current = onEntered
-
   React.useEffect(() => {
-    let cancelled = false
+    onEnteredRef.current = onEntered
+  }, [onEntered])
 
-    const enter = () => {
-      if (!cancelled) {
-        setVisible(true)
-        onEnteredRef.current?.()
-      }
-    }
-
-    if (isInitial.current) {
-      isInitial.current = false
-      const t = setTimeout(enter, delayRef.current + 16)
-      return () => {
-        cancelled = true
-        clearTimeout(t)
-      }
-    }
-
-    setVisible(false)
-    const t = setTimeout(enter, EXIT_MS + delayRef.current + 16)
-    return () => {
-      cancelled = true
-      clearTimeout(t)
-    }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [triggerKey])
+  /**
+   * Motion’s onAnimationStart runs at t=0, not after transition.delay — sync
+   * row-reveal and other children once the enter actually becomes visible.
+   */
+  React.useEffect(() => {
+    if (!onEnteredRef.current) return
+    const t = window.setTimeout(() => {
+      onEnteredRef.current?.()
+    }, delay + 16)
+    return () => window.clearTimeout(t)
+  }, [presenceKey, delay])
 
   return (
-    <div
-      className={cn(className)}
-      style={{
-        opacity: visible ? 1 : 0,
-        transform: visible ? "translateY(0)" : "translateY(14px)",
-        transitionProperty: "opacity, transform",
-        transitionTimingFunction: visible
-          ? "cubic-bezier(0.22, 1, 0.36, 1)"
-          : "ease-in",
-        transitionDuration: visible ? `${duration}ms` : `${EXIT_MS}ms`,
-      }}
-    >
-      {children}
-    </div>
+    <AnimatePresence mode="wait">
+      <motion.div
+        key={presenceKey}
+        className={cn(className)}
+        initial={{ opacity: 0, y: 14 }}
+        animate={{ opacity: 1, y: 0 }}
+        exit={{
+          opacity: 0,
+          y: -12,
+          transition: { duration: exitSec, ease: EASE_IN },
+        }}
+        transition={{
+          opacity: {
+            duration: duration / 1000,
+            delay: delay / 1000,
+            ease: EASE_OUT,
+          },
+          y: {
+            duration: duration / 1000,
+            delay: delay / 1000,
+            ease: EASE_OUT,
+          },
+        }}
+      >
+        {children}
+      </motion.div>
+    </AnimatePresence>
   )
 }

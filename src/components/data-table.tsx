@@ -61,12 +61,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
-import {
-  Tabs,
-  TabsContent,
-  TabsList,
-  TabsTrigger,
-} from "@/components/ui/tabs"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import {
   GripVerticalIcon,
   CircleCheckIcon,
@@ -185,7 +180,7 @@ const columns: ColumnDef<z.infer<typeof schema>>[] = [
     accessorKey: "limit",
     header: () => <div className="w-full text-right">Chapitres</div>,
     cell: ({ row }) => (
-      <div className="text-right tabular-nums text-muted-foreground">
+      <div className="text-right text-muted-foreground tabular-nums">
         {row.original.limit === "0" ? "—" : row.original.limit}
       </div>
     ),
@@ -228,7 +223,7 @@ function DraggableRow({
 
 export function DataTable({
   data: initialData,
-  loading: _loading,
+  loading,
   rowRevealEpoch = 0,
 }: {
   data: z.infer<typeof schema>[]
@@ -236,6 +231,7 @@ export function DataTable({
   /** Increment when the parent FadeIn has finished entering so row CSS animations run while visible */
   rowRevealEpoch?: number
 }) {
+  void loading
   const [data, setData] = React.useState(() => initialData)
   const [generation, setGeneration] = React.useState(0)
 
@@ -313,10 +309,7 @@ export function DataTable({
   }
 
   return (
-    <Tabs
-      defaultValue="tous"
-      className="w-full flex-col justify-start gap-6"
-    >
+    <Tabs defaultValue="tous" className="w-full flex-col justify-start gap-6">
       <div className="flex items-center justify-between px-4 lg:px-6">
         <Label htmlFor="view-selector" className="sr-only">
           Vue
@@ -353,7 +346,8 @@ export function DataTable({
         <div className="flex items-center gap-2">
           <Select
             value={
-              (table.getColumn("status")?.getFilterValue() as string) ?? "__all__"
+              (table.getColumn("status")?.getFilterValue() as string) ??
+              "__all__"
             }
             onValueChange={(value) =>
               table
@@ -362,7 +356,7 @@ export function DataTable({
             }
           >
             <SelectTrigger size="sm" className="w-fit">
-              <FilterIcon className="size-3.5 mr-1 text-muted-foreground" />
+              <FilterIcon className="mr-1 size-3.5 text-muted-foreground" />
               <SelectValue placeholder="Statut" />
             </SelectTrigger>
             <SelectContent>
@@ -545,17 +539,17 @@ export function DataTable({
         </div>
       </TabsContent>
       <TabsContent value="hugo" className="flex flex-col px-4 lg:px-6">
-        <div className="aspect-video w-full flex-1 rounded-lg border border-dashed flex items-center justify-center text-muted-foreground">
+        <div className="flex aspect-video w-full flex-1 items-center justify-center rounded-lg border border-dashed text-muted-foreground">
           125 œuvres · Dataset RAGFlow en cours d'indexation
         </div>
       </TabsContent>
       <TabsContent value="zola" className="flex flex-col px-4 lg:px-6">
-        <div className="aspect-video w-full flex-1 rounded-lg border border-dashed flex items-center justify-center text-muted-foreground">
+        <div className="flex aspect-video w-full flex-1 items-center justify-center rounded-lg border border-dashed text-muted-foreground">
           111 œuvres · 716 chapitres · En attente d'upload RAGFlow
         </div>
       </TabsContent>
       <TabsContent value="verne" className="flex flex-col px-4 lg:px-6">
-        <div className="aspect-video w-full flex-1 rounded-lg border border-dashed flex items-center justify-center text-muted-foreground">
+        <div className="flex aspect-video w-full flex-1 items-center justify-center rounded-lg border border-dashed text-muted-foreground">
           99 œuvres · 1 928 chapitres · En attente d'upload RAGFlow
         </div>
       </TabsContent>

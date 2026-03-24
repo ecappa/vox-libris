@@ -1,14 +1,23 @@
 const VERNE_TITLES: Record<string, string> = {
   "a-propos-du-geant.txt": "À Propos du Géant",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-01.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-02.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-03.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-04.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-05.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-06.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-07.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-08.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
-  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain.txt": "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-01.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-02.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-03.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-04.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-05.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-06.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-07.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain--chapitre-08.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
+  "au-29eme-siecle-ou-la-journee-dun-journaliste-americain.txt":
+    "Au 29ème Siècle ou la Journée d'Un Journaliste Américain",
   "autour-de-la-lune--chapitre-01.txt": "Autour de la Lune",
   "autour-de-la-lune--chapitre-02.txt": "Autour de la Lune",
   "autour-de-la-lune--chapitre-03.txt": "Autour de la Lune",
@@ -34,46 +43,85 @@ const VERNE_TITLES: Record<string, string> = {
   "autour-de-la-lune--chapitre-23.txt": "Autour de la Lune",
   "autour-de-la-lune--chapitre-24.txt": "Autour de la Lune",
   "autour-de-la-lune.txt": "Autour de la Lune",
-  "aventure-de-la-famille-raton--chapitre-01.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-02.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-03.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-04.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-05.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-06.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-07.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-08.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-09.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-10.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-11.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-12.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-13.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-14.txt": "Aventure de la Famille Raton",
-  "aventure-de-la-famille-raton--chapitre-15.txt": "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-01.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-02.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-03.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-04.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-05.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-06.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-07.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-08.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-09.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-10.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-11.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-12.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-13.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-14.txt":
+    "Aventure de la Famille Raton",
+  "aventure-de-la-famille-raton--chapitre-15.txt":
+    "Aventure de la Famille Raton",
   "aventure-de-la-famille-raton.txt": "Aventure de la Famille Raton",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-01.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-02.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-03.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-04.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-05.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-06.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-07.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-08.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-09.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-10.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-11.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-12.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-13.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-14.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-15.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-16.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-17.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-18.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-19.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-20.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-21.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-22.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-23.txt": "Aventures de Trois Russes et de Trois Anglais",
-  "aventures-de-trois-russes-et-de-trois-anglais.txt": "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-01.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-02.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-03.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-04.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-05.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-06.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-07.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-08.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-09.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-10.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-11.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-12.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-13.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-14.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-15.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-16.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-17.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-18.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-19.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-20.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-21.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-22.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais--chapitre-23.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
+  "aventures-de-trois-russes-et-de-trois-anglais.txt":
+    "Aventures de Trois Russes et de Trois Anglais",
   "bourses-de-voyage--deuxieme-partie--chapitre-01.txt": "Bourses de Voyage",
   "bourses-de-voyage--deuxieme-partie--chapitre-02.txt": "Bourses de Voyage",
   "bourses-de-voyage--deuxieme-partie--chapitre-03.txt": "Bourses de Voyage",
@@ -321,7 +369,8 @@ const VERNE_TITLES: Record<string, string> = {
   "deux-ans-de-vacances--chapitre-30.txt": "Deux Ans de Vacances",
   "deux-ans-de-vacances--chapitre-31.txt": "Deux Ans de Vacances",
   "deux-ans-de-vacances.txt": "Deux Ans de Vacances",
-  "discours-dinauguration-du-cirque-municipal-damiens.txt": "Discours d'Inauguration du Cirque Municipal d'Amiens",
+  "discours-dinauguration-du-cirque-municipal-damiens.txt":
+    "Discours d'Inauguration du Cirque Municipal d'Amiens",
   "dix-heures-en-chasse--chapitre-01.txt": "DIX Heures en Chasse",
   "dix-heures-en-chasse--chapitre-02.txt": "DIX Heures en Chasse",
   "dix-heures-en-chasse--chapitre-03.txt": "DIX Heures en Chasse",
@@ -555,37 +604,67 @@ const VERNE_TITLES: Record<string, string> = {
   "la-maison-a-vapeur--premiere-partie--chapitre-16.txt": "La Maison à Vapeur",
   "la-maison-a-vapeur--premiere-partie.txt": "La Maison à Vapeur",
   "la-maison-a-vapeur.txt": "La Maison à Vapeur",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-01.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-02.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-03.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-04.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-05.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-06.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-07.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-08.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-09.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-10.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-11.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-12.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-13.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-14.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--deuxieme-partie--chapitre-15.txt": "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-01.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-02.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-03.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-04.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-05.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-06.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-07.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-08.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-09.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-10.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-11.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-12.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-13.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-14.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--deuxieme-partie--chapitre-15.txt":
+    "L'Agence Thomson And Co",
   "lagence-thomson-and-co--deuxieme-partie.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-01.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-02.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-03.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-04.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-05.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-06.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-07.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-08.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-09.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-10.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-11.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-12.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-13.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-14.txt": "L'Agence Thomson And Co",
-  "lagence-thomson-and-co--premiere-partie--chapitre-15.txt": "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-01.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-02.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-03.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-04.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-05.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-06.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-07.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-08.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-09.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-10.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-11.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-12.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-13.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-14.txt":
+    "L'Agence Thomson And Co",
+  "lagence-thomson-and-co--premiere-partie--chapitre-15.txt":
+    "L'Agence Thomson And Co",
   "lagence-thomson-and-co--premiere-partie.txt": "L'Agence Thomson And Co",
   "lagence-thomson-and-co.txt": "L'Agence Thomson And Co",
   "larchipel-en-feu--chapitre-01.txt": "L'Archipel en Feu",
@@ -731,54 +810,101 @@ const VERNE_TITLES: Record<string, string> = {
   "le-docteur-ox--chapitre-06.txt": "Le Docteur Ox",
   "le-docteur-ox.txt": "Le Docteur Ox",
   "le-humbug-moeurs-americaines.txt": "Le Humbug – Moeurs Américaines",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-01.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-02.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-03.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-04.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-05.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-06.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-07.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-08.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-09.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-10.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-11.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-12.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-13.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-14.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-15.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-16.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-17.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-18.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-19.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-20.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-21.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-22.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-23.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--deuxieme-partie--chapitre-24.txt": "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-01.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-02.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-03.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-04.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-05.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-06.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-07.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-08.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-09.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-10.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-11.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-12.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-13.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-14.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-15.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-16.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-17.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-18.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-19.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-20.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-21.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-22.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-23.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--deuxieme-partie--chapitre-24.txt":
+    "Le Pays des Fourrures",
   "le-pays-des-fourrures--deuxieme-partie.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-01.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-02.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-03.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-04.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-05.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-06.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-07.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-08.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-09.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-10.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-11.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-12.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-13.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-14.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-15.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-16.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-17.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-18.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-19.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-20.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-21.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-22.txt": "Le Pays des Fourrures",
-  "le-pays-des-fourrures--premiere-partie--chapitre-23.txt": "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-01.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-02.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-03.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-04.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-05.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-06.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-07.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-08.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-09.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-10.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-11.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-12.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-13.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-14.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-15.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-16.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-17.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-18.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-19.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-20.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-21.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-22.txt":
+    "Le Pays des Fourrures",
+  "le-pays-des-fourrures--premiere-partie--chapitre-23.txt":
+    "Le Pays des Fourrures",
   "le-pays-des-fourrures--premiere-partie.txt": "Le Pays des Fourrures",
   "le-pays-des-fourrures.txt": "Le Pays des Fourrures",
   "le-phare-du-bout-du-monde--chapitre-01.txt": "Le Phare du Bout du Monde",
@@ -841,135 +967,256 @@ const VERNE_TITLES: Record<string, string> = {
   "le-rayon-vert--chapitre-22.txt": "Le Rayon Vert",
   "le-rayon-vert--chapitre-23.txt": "Le Rayon Vert",
   "le-rayon-vert.txt": "Le Rayon Vert",
-  "le-secret-de-wilhelm-storitz--chapitre-01.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-02.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-03.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-04.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-05.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-06.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-07.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-08.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-09.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-10.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-11.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-12.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-13.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-14.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-15.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-16.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-17.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-18.txt": "Le Secret de Wilhelm Storitz",
-  "le-secret-de-wilhelm-storitz--chapitre-19.txt": "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-01.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-02.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-03.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-04.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-05.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-06.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-07.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-08.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-09.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-10.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-11.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-12.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-13.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-14.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-15.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-16.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-17.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-18.txt":
+    "Le Secret de Wilhelm Storitz",
+  "le-secret-de-wilhelm-storitz--chapitre-19.txt":
+    "Le Secret de Wilhelm Storitz",
   "le-secret-de-wilhelm-storitz.txt": "Le Secret de Wilhelm Storitz",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-01.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-02.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-03.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-04.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-05.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-06.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-07.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-08.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-09.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-10.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-11.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-12.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-13.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-14.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-15.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--deuxieme-partie--chapitre-16.txt": "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-01.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-02.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-03.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-04.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-05.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-06.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-07.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-08.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-09.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-10.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-11.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-12.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-13.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-14.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-15.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--deuxieme-partie--chapitre-16.txt":
+    "Le Sphinx des Glaces",
   "le-sphinx-des-glaces--deuxieme-partie.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-01.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-02.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-03.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-04.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-05.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-06.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-07.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-08.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-09.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-10.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-11.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-12.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-13.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-14.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-15.txt": "Le Sphinx des Glaces",
-  "le-sphinx-des-glaces--premiere-partie--chapitre-16.txt": "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-01.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-02.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-03.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-04.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-05.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-06.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-07.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-08.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-09.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-10.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-11.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-12.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-13.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-14.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-15.txt":
+    "Le Sphinx des Glaces",
+  "le-sphinx-des-glaces--premiere-partie--chapitre-16.txt":
+    "Le Sphinx des Glaces",
   "le-sphinx-des-glaces--premiere-partie.txt": "Le Sphinx des Glaces",
   "le-sphinx-des-glaces.txt": "Le Sphinx des Glaces",
   "le-superbe-orenoque--chapitre-01.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-01.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-02.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-03.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-04.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-05.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-06.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-07.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-08.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-09.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-10.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-11.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-12.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-13.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-14.txt": "Le Superbe Orénoque",
-  "le-superbe-orenoque--premiere-partie--chapitre-15.txt": "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-01.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-02.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-03.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-04.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-05.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-06.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-07.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-08.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-09.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-10.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-11.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-12.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-13.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-14.txt":
+    "Le Superbe Orénoque",
+  "le-superbe-orenoque--premiere-partie--chapitre-15.txt":
+    "Le Superbe Orénoque",
   "le-superbe-orenoque--premiere-partie.txt": "Le Superbe Orénoque",
   "le-superbe-orenoque.txt": "Le Superbe Orénoque",
-  "le-testament-dun-excentrique--chapitre-01.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-01.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-02.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-03.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-04.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-05.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-06.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-07.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-08.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-09.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-10.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-11.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-12.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-13.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-14.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie--chapitre-15.txt": "Le Testament d'Un Excentrique",
-  "le-testament-dun-excentrique--premiere-partie.txt": "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--chapitre-01.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-01.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-02.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-03.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-04.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-05.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-06.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-07.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-08.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-09.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-10.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-11.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-12.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-13.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-14.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie--chapitre-15.txt":
+    "Le Testament d'Un Excentrique",
+  "le-testament-dun-excentrique--premiere-partie.txt":
+    "Le Testament d'Un Excentrique",
   "le-testament-dun-excentrique.txt": "Le Testament d'Un Excentrique",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-01.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-02.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-03.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-04.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-05.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-06.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-07.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-08.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-09.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-10.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-11.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-12.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-13.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-14.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-15.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-16.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-17.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-18.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-19.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-20.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-21.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-22.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-23.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-24.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-25.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-26.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-27.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-28.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-29.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-30.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-31.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-32.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-33.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-34.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-35.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-36.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-37.txt": "Le Tour du Monde en Quatre-vingts Jours",
-  "le-tour-du-monde-en-quatre-vingts-jours.txt": "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-01.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-02.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-03.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-04.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-05.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-06.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-07.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-08.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-09.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-10.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-11.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-12.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-13.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-14.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-15.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-16.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-17.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-18.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-19.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-20.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-21.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-22.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-23.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-24.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-25.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-26.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-27.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-28.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-29.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-30.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-31.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-32.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-33.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-34.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-35.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-36.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours--chapitre-37.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
+  "le-tour-du-monde-en-quatre-vingts-jours.txt":
+    "Le Tour du Monde en Quatre-vingts Jours",
   "le-village-aerien--chapitre-01.txt": "Le Village Aérien",
   "le-village-aerien--chapitre-02.txt": "Le Village Aérien",
   "le-village-aerien--chapitre-03.txt": "Le Village Aérien",
@@ -1052,100 +1299,194 @@ const VERNE_TITLES: Record<string, string> = {
   "lepave-du-cynthia--chapitre-21.txt": "L'Épave du Cynthia",
   "lepave-du-cynthia--chapitre-22.txt": "L'Épave du Cynthia",
   "lepave-du-cynthia.txt": "L'Épave du Cynthia",
-  "les-cinq-cents-millions-de-la-begum--chapitre-01.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-02.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-03.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-04.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-05.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-06.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-07.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-08.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-09.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-10.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-11.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-12.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-13.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-14.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-15.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-16.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-17.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-18.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-19.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum--chapitre-20.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-cinq-cents-millions-de-la-begum.txt": "Les Cinq Cents Millions de la Bégum",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-01.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-02.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-03.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-04.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-05.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-06.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-07.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-08.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-09.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-10.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-11.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-12.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-13.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-14.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-15.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-16.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-17.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-18.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-19.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-20.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-21.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-22.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--deuxieme-partie.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-01.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-02.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-03.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-04.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-05.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-06.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-07.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-08.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-09.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-10.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-11.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-12.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-13.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-14.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-15.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-16.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-17.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-18.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-19.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-20.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-21.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-22.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-23.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-24.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-25.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-26.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--premiere-partie.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-01.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-02.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-03.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-04.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-05.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-06.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-07.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-08.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-09.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-10.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-11.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-12.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-13.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-14.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-15.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-16.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-17.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-18.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-19.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-20.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-21.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-22.txt": "Les Enfants du Capitaine Grant",
-  "les-enfants-du-capitaine-grant--troisieme-partie.txt": "Les Enfants du Capitaine Grant",
+  "les-cinq-cents-millions-de-la-begum--chapitre-01.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-02.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-03.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-04.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-05.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-06.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-07.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-08.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-09.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-10.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-11.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-12.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-13.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-14.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-15.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-16.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-17.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-18.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-19.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum--chapitre-20.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-cinq-cents-millions-de-la-begum.txt":
+    "Les Cinq Cents Millions de la Bégum",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-01.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-02.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-03.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-04.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-05.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-06.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-07.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-08.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-09.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-10.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-11.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-12.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-13.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-14.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-15.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-16.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-17.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-18.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-19.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-20.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-21.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie--chapitre-22.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--deuxieme-partie.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-01.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-02.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-03.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-04.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-05.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-06.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-07.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-08.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-09.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-10.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-11.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-12.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-13.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-14.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-15.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-16.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-17.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-18.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-19.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-20.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-21.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-22.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-23.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-24.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-25.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie--chapitre-26.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--premiere-partie.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-01.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-02.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-03.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-04.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-05.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-06.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-07.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-08.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-09.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-10.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-11.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-12.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-13.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-14.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-15.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-16.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-17.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-18.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-19.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-20.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-21.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie--chapitre-22.txt":
+    "Les Enfants du Capitaine Grant",
+  "les-enfants-du-capitaine-grant--troisieme-partie.txt":
+    "Les Enfants du Capitaine Grant",
   "les-enfants-du-capitaine-grant.txt": "Les Enfants du Capitaine Grant",
   "les-forceurs-de-blocus--chapitre-01.txt": "Les Forceurs de Blocus",
   "les-forceurs-de-blocus--chapitre-02.txt": "Les Forceurs de Blocus",
@@ -1175,35 +1516,64 @@ const VERNE_TITLES: Record<string, string> = {
   "les-freres-kip--premiere-partie--chapitre-14.txt": "Les Frères Kip",
   "les-freres-kip--premiere-partie.txt": "Les Frères Kip",
   "les-freres-kip.txt": "Les Frères Kip",
-  "les-grands-navigateurs-du-xviiie-siecle--chapitre-01.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie--chapitre-01.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie--chapitre-02.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie--chapitre-03.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie--chapitre-04.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-01.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-02.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-03.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-04.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-05.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-grands-navigateurs-du-xviiie-siecle.txt": "Les Grands Navigateurs du Xviiie Siècle",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-01.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-02.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-03.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-04.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-05.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-06.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-07.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-08.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-09.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-10.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-11.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-12.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-13.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-14.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin--chapitre-15.txt": "Les Histoires de Jean-marie Cabidoulin",
-  "les-histoires-de-jean-marie-cabidoulin.txt": "Les Histoires de Jean-marie Cabidoulin",
+  "les-grands-navigateurs-du-xviiie-siecle--chapitre-01.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie--chapitre-01.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie--chapitre-02.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie--chapitre-03.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie--chapitre-04.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--deuxieme-partie.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-01.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-02.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-03.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-04.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie--chapitre-05.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle--premiere-partie.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-grands-navigateurs-du-xviiie-siecle.txt":
+    "Les Grands Navigateurs du Xviiie Siècle",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-01.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-02.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-03.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-04.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-05.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-06.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-07.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-08.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-09.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-10.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-11.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-12.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-13.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-14.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin--chapitre-15.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
+  "les-histoires-de-jean-marie-cabidoulin.txt":
+    "Les Histoires de Jean-marie Cabidoulin",
   "les-indes-noires--chapitre-01.txt": "Les Indes Noires",
   "les-indes-noires--chapitre-02.txt": "Les Indes Noires",
   "les-indes-noires--chapitre-03.txt": "Les Indes Noires",
@@ -1228,77 +1598,144 @@ const VERNE_TITLES: Record<string, string> = {
   "les-indes-noires--chapitre-22.txt": "Les Indes Noires",
   "les-indes-noires.txt": "Les Indes Noires",
   "les-meridiens-et-le-calendrier.txt": "Les Méridiens et le Calendrier",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-01.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-02.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-03.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-04.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-05.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-06.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-07.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-08.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-09.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-10.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-11.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-01.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-02.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-03.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-04.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-05.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--premiere-partie.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-01.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-02.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-03.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-04.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-05.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-06.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-07.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-08.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-09.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-10.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-11.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-12.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-13.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-14.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-15.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie.txt": "Les Naufragés du Jonathan ( en Magellanie )",
-  "les-naufrages-du-jonathan-en-magellanie.txt": "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-01.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-02.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-03.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-04.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-05.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-06.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-07.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-08.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-09.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-10.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie--chapitre-11.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--deuxieme-partie.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-01.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-02.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-03.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-04.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--premiere-partie--chapitre-05.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--premiere-partie.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-01.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-02.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-03.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-04.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-05.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-06.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-07.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-08.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-09.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-10.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-11.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-12.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-13.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-14.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie--chapitre-15.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie--troisieme-partie.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
+  "les-naufrages-du-jonathan-en-magellanie.txt":
+    "Les Naufragés du Jonathan ( en Magellanie )",
   "les-revoltes-de-la-bounty--chapitre-01.txt": "Les Révoltés de la Bounty",
   "les-revoltes-de-la-bounty--chapitre-02.txt": "Les Révoltés de la Bounty",
   "les-revoltes-de-la-bounty--chapitre-03.txt": "Les Révoltés de la Bounty",
   "les-revoltes-de-la-bounty.txt": "Les Révoltés de la Bounty",
-  "les-tribulations-dun-chinois-en-chine--chapitre-01.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-02.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-03.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-04.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-05.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-06.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-07.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-08.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-09.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-10.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-11.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-12.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-13.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-14.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-15.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-16.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-17.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-18.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-19.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-20.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-21.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine--chapitre-22.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-tribulations-dun-chinois-en-chine.txt": "Les Tribulations d'Un Chinois en Chine",
-  "les-voyageurs-du-xixe-siecle--chapitre-01.txt": "Les Voyageurs du Xixe Siècle",
-  "les-voyageurs-du-xixe-siecle--deuxieme-partie--chapitre-01.txt": "Les Voyageurs du Xixe Siècle",
-  "les-voyageurs-du-xixe-siecle--deuxieme-partie--chapitre-02.txt": "Les Voyageurs du Xixe Siècle",
-  "les-voyageurs-du-xixe-siecle--deuxieme-partie--chapitre-03.txt": "Les Voyageurs du Xixe Siècle",
-  "les-voyageurs-du-xixe-siecle--deuxieme-partie.txt": "Les Voyageurs du Xixe Siècle",
-  "les-voyageurs-du-xixe-siecle--premiere-partie--chapitre-01.txt": "Les Voyageurs du Xixe Siècle",
-  "les-voyageurs-du-xixe-siecle--premiere-partie--chapitre-02.txt": "Les Voyageurs du Xixe Siècle",
-  "les-voyageurs-du-xixe-siecle--premiere-partie--chapitre-03.txt": "Les Voyageurs du Xixe Siècle",
-  "les-voyageurs-du-xixe-siecle--premiere-partie.txt": "Les Voyageurs du Xixe Siècle",
+  "les-tribulations-dun-chinois-en-chine--chapitre-01.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-02.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-03.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-04.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-05.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-06.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-07.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-08.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-09.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-10.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-11.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-12.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-13.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-14.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-15.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-16.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-17.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-18.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-19.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-20.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-21.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine--chapitre-22.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-tribulations-dun-chinois-en-chine.txt":
+    "Les Tribulations d'Un Chinois en Chine",
+  "les-voyageurs-du-xixe-siecle--chapitre-01.txt":
+    "Les Voyageurs du Xixe Siècle",
+  "les-voyageurs-du-xixe-siecle--deuxieme-partie--chapitre-01.txt":
+    "Les Voyageurs du Xixe Siècle",
+  "les-voyageurs-du-xixe-siecle--deuxieme-partie--chapitre-02.txt":
+    "Les Voyageurs du Xixe Siècle",
+  "les-voyageurs-du-xixe-siecle--deuxieme-partie--chapitre-03.txt":
+    "Les Voyageurs du Xixe Siècle",
+  "les-voyageurs-du-xixe-siecle--deuxieme-partie.txt":
+    "Les Voyageurs du Xixe Siècle",
+  "les-voyageurs-du-xixe-siecle--premiere-partie--chapitre-01.txt":
+    "Les Voyageurs du Xixe Siècle",
+  "les-voyageurs-du-xixe-siecle--premiere-partie--chapitre-02.txt":
+    "Les Voyageurs du Xixe Siècle",
+  "les-voyageurs-du-xixe-siecle--premiere-partie--chapitre-03.txt":
+    "Les Voyageurs du Xixe Siècle",
+  "les-voyageurs-du-xixe-siecle--premiere-partie.txt":
+    "Les Voyageurs du Xixe Siècle",
   "les-voyageurs-du-xixe-siecle.txt": "Les Voyageurs du Xixe Siècle",
   "leternel-adam--chapitre-01.txt": "L'Éternel Adam",
   "leternel-adam--chapitre-02.txt": "L'Éternel Adam",
@@ -1339,36 +1776,66 @@ const VERNE_TITLES: Record<string, string> = {
   "letoile-du-sud--chapitre-23.txt": "L'Étoile du Sud",
   "letoile-du-sud--chapitre-24.txt": "L'Étoile du Sud",
   "letoile-du-sud.txt": "L'Étoile du Sud",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-01.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-02.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-03.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-04.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-05.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-06.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-07.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-08.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-09.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-10.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-11.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-12.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-13.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-14.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-15.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-01.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-02.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-03.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-04.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-05.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-06.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-07.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-08.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-09.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-10.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-11.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-12.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac--premiere-partie.txt": "L'Étonnante Aventure de la Mission Barsac",
-  "letonnante-aventure-de-la-mission-barsac.txt": "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-01.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-02.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-03.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-04.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-05.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-06.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-07.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-08.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-09.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-10.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-11.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-12.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-13.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-14.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie--chapitre-15.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--deuxieme-partie.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-01.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-02.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-03.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-04.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-05.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-06.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-07.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-08.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-09.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-10.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-11.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie--chapitre-12.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac--premiere-partie.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
+  "letonnante-aventure-de-la-mission-barsac.txt":
+    "L'Étonnante Aventure de la Mission Barsac",
   "lile-a-helice--chapitre-01.txt": "L'Île à Hélice",
   "lile-a-helice--premiere-partie--chapitre-01.txt": "L'Île à Hélice",
   "lile-a-helice--premiere-partie--chapitre-02.txt": "L'Île à Hélice",
@@ -1386,71 +1853,135 @@ const VERNE_TITLES: Record<string, string> = {
   "lile-a-helice--premiere-partie--chapitre-14.txt": "L'Île à Hélice",
   "lile-a-helice--premiere-partie.txt": "L'Île à Hélice",
   "lile-a-helice.txt": "L'Île à Hélice",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-01.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-02.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-03.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-04.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-05.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-06.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-07.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-08.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-09.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-10.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-11.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-12.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-13.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-14.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-15.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-16.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-17.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-18.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-19.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-20.txt": "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-01.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-02.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-03.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-04.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-05.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-06.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-07.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-08.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-09.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-10.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-11.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-12.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-13.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-14.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-15.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-16.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-17.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-18.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-19.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--deuxieme-partie-labandonne--chapitre-20.txt":
+    "L'Île Mystérieuse",
   "lile-mysterieuse--deuxieme-partie-labandonne.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-01.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-02.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-03.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-04.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-05.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-06.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-07.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-08.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-09.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-10.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-11.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-12.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-13.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-14.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-15.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-16.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-17.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-18.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-19.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-20.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-21.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-22.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-01.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-02.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-03.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-04.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-05.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-06.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-07.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-08.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-09.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-10.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-11.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-12.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-13.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-14.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-15.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-16.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-17.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-18.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-19.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-20.txt": "L'Île Mystérieuse",
-  "lile-mysterieuse--troisieme-partie-le-secret-de-lile.txt": "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-01.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-02.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-03.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-04.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-05.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-06.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-07.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-08.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-09.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-10.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-11.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-12.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-13.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-14.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-15.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-16.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-17.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-18.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-19.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-20.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-21.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair--chapitre-22.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--premiere-partie-les-naufrages-de-lair.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-01.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-02.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-03.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-04.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-05.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-06.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-07.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-08.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-09.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-10.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-11.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-12.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-13.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-14.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-15.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-16.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-17.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-18.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-19.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile--chapitre-20.txt":
+    "L'Île Mystérieuse",
+  "lile-mysterieuse--troisieme-partie-le-secret-de-lile.txt":
+    "L'Île Mystérieuse",
   "lile-mysterieuse.txt": "L'Île Mystérieuse",
   "linvasion-de-la-mer--chapitre-01.txt": "L'Invasion de la Mer",
   "linvasion-de-la-mer--chapitre-02.txt": "L'Invasion de la Mer",
@@ -1470,16 +2001,26 @@ const VERNE_TITLES: Record<string, string> = {
   "linvasion-de-la-mer--chapitre-16.txt": "L'Invasion de la Mer",
   "linvasion-de-la-mer--chapitre-17.txt": "L'Invasion de la Mer",
   "linvasion-de-la-mer.txt": "L'Invasion de la Mer",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-01.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-02.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-03.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-04.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-05.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-06.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-07.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-08.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-09.txt": "M. Ré Dièze et Mlle MI Bémol",
-  "m-re-dieze-et-mlle-mi-bemol--chapitre-10.txt": "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-01.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-02.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-03.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-04.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-05.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-06.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-07.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-08.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-09.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
+  "m-re-dieze-et-mlle-mi-bemol--chapitre-10.txt":
+    "M. Ré Dièze et Mlle MI Bémol",
   "m-re-dieze-et-mlle-mi-bemol.txt": "M. Ré Dièze et Mlle MI Bémol",
   "maitre-du-monde--chapitre-01.txt": "Maître du Monde",
   "maitre-du-monde--chapitre-02.txt": "Maître du Monde",
@@ -1558,25 +2099,44 @@ const VERNE_TITLES: Record<string, string> = {
   "michel-strogoff--premiere-partie--chapitre-17.txt": "Michel Strogoff",
   "michel-strogoff--premiere-partie.txt": "Michel Strogoff",
   "michel-strogoff.txt": "Michel Strogoff",
-  "mirifiques-aventures-de-maitre-antifer--chapitre-01.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-01.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-02.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-03.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-04.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-05.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-06.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-07.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-08.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-09.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-10.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-11.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-12.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-13.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-14.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-15.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-16.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer--premiere-partie.txt": "Mirifiques Aventures de Maître Antifer",
-  "mirifiques-aventures-de-maitre-antifer.txt": "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--chapitre-01.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-01.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-02.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-03.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-04.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-05.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-06.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-07.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-08.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-09.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-10.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-11.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-12.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-13.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-14.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-15.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie--chapitre-16.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer--premiere-partie.txt":
+    "Mirifiques Aventures de Maître Antifer",
+  "mirifiques-aventures-de-maitre-antifer.txt":
+    "Mirifiques Aventures de Maître Antifer",
   "mistress-branican--deuxieme-partie--chapitre-01.txt": "Mistress Branican",
   "mistress-branican--deuxieme-partie--chapitre-02.txt": "Mistress Branican",
   "mistress-branican--deuxieme-partie--chapitre-03.txt": "Mistress Branican",
@@ -1677,38 +2237,69 @@ const VERNE_TITLES: Record<string, string> = {
   "poesies--chapitre-39.txt": "Poésies",
   "poesies--chapitre-40.txt": "Poésies",
   "poesies.txt": "Poésies",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-01.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-02.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-03.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-04.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-05.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-06.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-07.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-08.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-09.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-10.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-11.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-12.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-13.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-14.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-15.txt": "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-01.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-02.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-03.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-04.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-05.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-06.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-07.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-08.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-09.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-10.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-11.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-12.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-13.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-14.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--deuxieme-partie-dernieres-etapes--chapitre-15.txt":
+    "P'Tit Bonhomme",
   "ptit-bonhomme--deuxieme-partie-dernieres-etapes.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-01.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-02.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-03.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-04.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-05.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-06.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-07.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-08.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-09.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-10.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-11.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-12.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-13.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-14.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-15.txt": "P'Tit Bonhomme",
-  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-16.txt": "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-01.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-02.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-03.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-04.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-05.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-06.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-07.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-08.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-09.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-10.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-11.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-12.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-13.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-14.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-15.txt":
+    "P'Tit Bonhomme",
+  "ptit-bonhomme--premiere-partie-les-premiers-pas--chapitre-16.txt":
+    "P'Tit Bonhomme",
   "ptit-bonhomme--premiere-partie-les-premiers-pas.txt": "P'Tit Bonhomme",
   "ptit-bonhomme.txt": "P'Tit Bonhomme",
   "robur-le-conquerant--chapitre-01.txt": "Robur le Conquerant",
@@ -1791,12 +2382,18 @@ const VERNE_TITLES: Record<string, string> = {
   "seconde-patrie--chapitre-31.txt": "Seconde Patrie",
   "seconde-patrie--chapitre-32.txt": "Seconde Patrie",
   "seconde-patrie.txt": "Seconde Patrie",
-  "souvenirs-denfance-et-de-jeunesse--chapitre-01.txt": "Souvenirs d'Enfance et de Jeunesse",
-  "souvenirs-denfance-et-de-jeunesse--chapitre-02.txt": "Souvenirs d'Enfance et de Jeunesse",
-  "souvenirs-denfance-et-de-jeunesse--chapitre-03.txt": "Souvenirs d'Enfance et de Jeunesse",
-  "souvenirs-denfance-et-de-jeunesse--chapitre-04.txt": "Souvenirs d'Enfance et de Jeunesse",
-  "souvenirs-denfance-et-de-jeunesse--chapitre-05.txt": "Souvenirs d'Enfance et de Jeunesse",
-  "souvenirs-denfance-et-de-jeunesse--chapitre-06.txt": "Souvenirs d'Enfance et de Jeunesse",
+  "souvenirs-denfance-et-de-jeunesse--chapitre-01.txt":
+    "Souvenirs d'Enfance et de Jeunesse",
+  "souvenirs-denfance-et-de-jeunesse--chapitre-02.txt":
+    "Souvenirs d'Enfance et de Jeunesse",
+  "souvenirs-denfance-et-de-jeunesse--chapitre-03.txt":
+    "Souvenirs d'Enfance et de Jeunesse",
+  "souvenirs-denfance-et-de-jeunesse--chapitre-04.txt":
+    "Souvenirs d'Enfance et de Jeunesse",
+  "souvenirs-denfance-et-de-jeunesse--chapitre-05.txt":
+    "Souvenirs d'Enfance et de Jeunesse",
+  "souvenirs-denfance-et-de-jeunesse--chapitre-06.txt":
+    "Souvenirs d'Enfance et de Jeunesse",
   "souvenirs-denfance-et-de-jeunesse.txt": "Souvenirs d'Enfance et de Jeunesse",
   "un-billet-de-loterie--chapitre-01.txt": "Un Billet de Loterie",
   "un-billet-de-loterie--chapitre-02.txt": "Un Billet de Loterie",
@@ -1818,46 +2415,86 @@ const VERNE_TITLES: Record<string, string> = {
   "un-billet-de-loterie--chapitre-18.txt": "Un Billet de Loterie",
   "un-billet-de-loterie--chapitre-19.txt": "Un Billet de Loterie",
   "un-billet-de-loterie.txt": "Un Billet de Loterie",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-01.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-02.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-03.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-04.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-05.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-06.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-07.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-08.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-09.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-10.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-11.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-12.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-13.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-14.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-15.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-16.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-17.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-18.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-19.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-20.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--deuxieme-partie.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-01.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-02.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-03.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-04.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-05.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-06.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-07.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-08.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-09.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-10.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-11.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-12.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-13.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-14.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-15.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-16.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-17.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-18.txt": "Un Capitaine de Quinze Ans",
-  "un-capitaine-de-quinze-ans--premiere-partie.txt": "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-01.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-02.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-03.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-04.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-05.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-06.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-07.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-08.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-09.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-10.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-11.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-12.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-13.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-14.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-15.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-16.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-17.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-18.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-19.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie--chapitre-20.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--deuxieme-partie.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-01.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-02.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-03.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-04.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-05.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-06.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-07.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-08.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-09.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-10.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-11.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-12.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-13.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-14.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-15.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-16.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-17.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie--chapitre-18.txt":
+    "Un Capitaine de Quinze Ans",
+  "un-capitaine-de-quinze-ans--premiere-partie.txt":
+    "Un Capitaine de Quinze Ans",
   "un-capitaine-de-quinze-ans.txt": "Un Capitaine de Quinze Ans",
   "un-drame-au-mexique--chapitre-01.txt": "Un Drame au Mexique",
   "un-drame-au-mexique--chapitre-02.txt": "Un Drame au Mexique",
@@ -1882,22 +2519,38 @@ const VERNE_TITLES: Record<string, string> = {
   "un-drame-en-livonie--chapitre-15.txt": "Un Drame en Livonie",
   "un-drame-en-livonie--chapitre-16.txt": "Un Drame en Livonie",
   "un-drame-en-livonie.txt": "Un Drame en Livonie",
-  "un-hivernage-dans-les-glaces--chapitre-01.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-02.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-03.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-04.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-05.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-06.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-07.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-08.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-09.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-10.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-11.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-12.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-13.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-14.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-15.txt": "Un Hivernage dans les Glaces",
-  "un-hivernage-dans-les-glaces--chapitre-16.txt": "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-01.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-02.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-03.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-04.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-05.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-06.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-07.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-08.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-09.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-10.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-11.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-12.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-13.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-14.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-15.txt":
+    "Un Hivernage dans les Glaces",
+  "un-hivernage-dans-les-glaces--chapitre-16.txt":
+    "Un Hivernage dans les Glaces",
   "un-hivernage-dans-les-glaces.txt": "Un Hivernage dans les Glaces",
   "une-ville-flottante--chapitre-01.txt": "Une Ville Flottante",
   "une-ville-flottante--chapitre-02.txt": "Une Ville Flottante",
@@ -1940,138 +2593,267 @@ const VERNE_TITLES: Record<string, string> = {
   "une-ville-flottante--chapitre-39.txt": "Une Ville Flottante",
   "une-ville-flottante.txt": "Une Ville Flottante",
   "une-ville-ideale.txt": "Une Ville Idéale",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-01.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-02.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-03.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-04.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-05.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-06.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-07.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-08.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-09.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-10.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-11.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-12.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-13.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-14.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-15.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-16.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-17.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-18.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-19.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-20.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-21.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-22.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-23.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--deuxieme-partie.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-01.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-02.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-03.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-04.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-05.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-06.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-07.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-08.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-09.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-10.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-11.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-12.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-13.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-14.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-15.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-16.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-17.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-18.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-19.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-20.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-21.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-22.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-23.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-24.txt": "Vingt-mille Lieues Sous les Mers",
-  "vingt-mille-lieues-sous-les-mers--premiere-partie.txt": "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-01.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-02.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-03.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-04.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-05.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-06.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-07.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-08.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-09.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-10.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-11.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-12.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-13.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-14.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-15.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-16.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-17.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-18.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-19.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-20.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-21.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-22.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie--chapitre-23.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--deuxieme-partie.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-01.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-02.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-03.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-04.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-05.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-06.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-07.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-08.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-09.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-10.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-11.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-12.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-13.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-14.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-15.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-16.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-17.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-18.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-19.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-20.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-21.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-22.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-23.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie--chapitre-24.txt":
+    "Vingt-mille Lieues Sous les Mers",
+  "vingt-mille-lieues-sous-les-mers--premiere-partie.txt":
+    "Vingt-mille Lieues Sous les Mers",
   "vingt-mille-lieues-sous-les-mers.txt": "Vingt-mille Lieues Sous les Mers",
   "vingt-quatre-minutes-en-ballon.txt": "Vingt-quatre Minutes en Ballon",
-  "voyage-au-centre-de-la-terre--chapitre-01.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-02.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-03.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-04.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-05.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-06.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-07.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-08.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-09.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-10.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-11.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-12.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-13.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-14.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-15.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-16.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-17.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-18.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-19.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-20.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-21.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-22.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-23.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-24.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-25.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-26.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-27.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-28.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-29.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-30.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-31.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-32.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-33.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-34.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-35.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-36.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-37.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-38.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-39.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-40.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-41.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-42.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-43.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-44.txt": "Voyage au Centre de la Terre",
-  "voyage-au-centre-de-la-terre--chapitre-45.txt": "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-01.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-02.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-03.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-04.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-05.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-06.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-07.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-08.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-09.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-10.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-11.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-12.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-13.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-14.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-15.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-16.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-17.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-18.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-19.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-20.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-21.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-22.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-23.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-24.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-25.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-26.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-27.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-28.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-29.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-30.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-31.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-32.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-33.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-34.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-35.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-36.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-37.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-38.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-39.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-40.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-41.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-42.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-43.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-44.txt":
+    "Voyage au Centre de la Terre",
+  "voyage-au-centre-de-la-terre--chapitre-45.txt":
+    "Voyage au Centre de la Terre",
   "voyage-au-centre-de-la-terre.txt": "Voyage au Centre de la Terre",
-  "voyages-et-aventures-du-capitaine-hatteras--chapitre-01.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-01.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-02.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-03.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-04.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-05.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-06.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-07.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-08.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-09.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-10.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-11.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-12.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-13.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-14.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-15.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-16.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-17.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-18.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-19.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-20.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-21.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-22.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-23.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-24.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-25.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-26.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-27.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-28.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-29.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-30.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-31.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-32.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord.txt": "Voyages et Aventures du Capitaine Hatteras",
-  "voyages-et-aventures-du-capitaine-hatteras.txt": "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--chapitre-01.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-01.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-02.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-03.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-04.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-05.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-06.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-07.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-08.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-09.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-10.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-11.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-12.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-13.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-14.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-15.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-16.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-17.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-18.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-19.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-20.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-21.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-22.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-23.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-24.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-25.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-26.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-27.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-28.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-29.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-30.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-31.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord--chapitre-32.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras--premiere-partie-les-anglais-au-pole-nord.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
+  "voyages-et-aventures-du-capitaine-hatteras.txt":
+    "Voyages et Aventures du Capitaine Hatteras",
 }
 
 export default VERNE_TITLES

@@ -2,10 +2,14 @@ const HUGO_TITLES: Record<string, string> = {
   "a-lydie.txt": "À Lydie",
   "a-madame-la-generale-lucotte.txt": "A Madame la Générale Lucotte",
   "achemenide.txt": "Achéménide",
-  "actes-et-paroles-i-avant-lexil-1841-1852.txt": "Actes et Paroles I Avant L’exil 1841-1852",
-  "actes-et-paroles-ii-pendant-lexil-1852-1870.txt": "Actes et Paroles II Pendant L’exil 1852-1870",
-  "actes-et-paroles-iii-depuis-lexil-1870-1876.txt": "Actes et Paroles III Depuis L’exil 1870-1876",
-  "actes-et-paroles-iv-depuis-lexil-1876-1885.txt": "Actes et Paroles IV Depuis L’exil 1876-1885",
+  "actes-et-paroles-i-avant-lexil-1841-1852.txt":
+    "Actes et Paroles I Avant L’exil 1841-1852",
+  "actes-et-paroles-ii-pendant-lexil-1852-1870.txt":
+    "Actes et Paroles II Pendant L’exil 1852-1870",
+  "actes-et-paroles-iii-depuis-lexil-1870-1876.txt":
+    "Actes et Paroles III Depuis L’exil 1870-1876",
+  "actes-et-paroles-iv-depuis-lexil-1876-1885.txt":
+    "Actes et Paroles IV Depuis L’exil 1876-1885",
   "amy-robsart.txt": "Amy Robsart",
   "angelo-tyran-de-padoue.txt": "Angelo Tyran de Padoue",
   "belgique.txt": "Belgique",
@@ -13,7 +17,8 @@ const HUGO_TITLES: Record<string, string> = {
   "bretagne-et-normandie-1.txt": "Bretagne et Normandie 1",
   "bretagne-et-normandie-2.txt": "Bretagne et Normandie 2",
   "bug-jargal.txt": "Bug-jargal",
-  "cahier-complementaire-a-histoire-dun-crime.txt": "Cahier Complémentaire à Histoire D’un Crime",
+  "cahier-complementaire-a-histoire-dun-crime.txt":
+    "Cahier Complémentaire à Histoire D’un Crime",
   "ce-que-jaime.txt": "Ce que J’aime",
   "cesar-passe-le-rubicon.txt": "César Passe le Rubicon",
   "choses-vues.txt": "Choses Vues",
@@ -24,12 +29,15 @@ const HUGO_TITLES: Record<string, string> = {
   "derniere-gerbe.txt": "Dernière Gerbe",
   "dieu.txt": "Dieu",
   "discours-a-lassemblee-nationale.txt": "Discours a L’assemblée Nationale",
-  "discours-douverture-du-congres-litteraire-international.txt": "Discours D’ouverture du Congrès Littéraire International",
-  "discours-sur-les-avantages-de-lenseignement-mutuel.txt": "Discours sur les Avantages de L’enseignement Mutuel",
+  "discours-douverture-du-congres-litteraire-international.txt":
+    "Discours D’ouverture du Congrès Littéraire International",
+  "discours-sur-les-avantages-de-lenseignement-mutuel.txt":
+    "Discours sur les Avantages de L’enseignement Mutuel",
   "epitre-a-brutus.txt": "Épître à Brutus",
   "etre-aime.txt": "Être Aimé",
   "fragments-dun-voyage-aux-alpes.txt": "Fragments D’un Voyage aux Alpes",
-  "fragments-philosophiques-des-annees-1860-1865.txt": "Fragments Philosophiques des Années 1860-1865",
+  "fragments-philosophiques-des-annees-1860-1865.txt":
+    "Fragments Philosophiques des Années 1860-1865",
   "funerailles-de-lempereur.txt": "Funérailles de L’empereur",
   "han-dislande.txt": "Han D’islande",
   "hernani.txt": "Hernani",
@@ -49,7 +57,8 @@ const HUGO_TITLES: Record<string, string> = {
   "la-loi-sur-la-deportation.txt": "La Loi sur la Déportation",
   "la-misere.txt": "La Misère",
   "la-pitie-supreme.txt": "La Pitié Suprême",
-  "la-servilite-de-la-magistrature-imperiale.txt": "La Servilité de la Magistrature Impériale",
+  "la-servilite-de-la-magistrature-imperiale.txt":
+    "La Servilité de la Magistrature Impériale",
   "la-voix-de-guernesey.txt": "La Voix de Guernesey",
   "labolition-de-la-peine-de-mort.txt": "L’abolition de la Peine de Mort",
   "lane.txt": "L’âne",
@@ -112,7 +121,8 @@ const HUGO_TITLES: Record<string, string> = {
   "paris.txt": "Paris",
   "poesies-diverses.txt": "Poésies Diverses",
   "post-scriptum-de-ma-vie.txt": "Post-scriptum de Ma Vie",
-  "preface-de-la-nouvelle-traduction-de-shakespeare.txt": "Préface de la Nouvelle Traduction de Shakespeare",
+  "preface-de-la-nouvelle-traduction-de-shakespeare.txt":
+    "Préface de la Nouvelle Traduction de Shakespeare",
   "presentation.txt": "Présentation",
   "prologue.txt": "Prologue",
   "quatre-vingt-treize.txt": "Quatre-vingt-treize",

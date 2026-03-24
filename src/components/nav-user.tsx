@@ -1,8 +1,4 @@
-import {
-  Avatar,
-  AvatarFallback,
-  AvatarImage,
-} from "@/components/ui/avatar"
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -60,7 +56,7 @@ export function NavUser({
                 {user.avatar && (
                   <AvatarImage src={user.avatar} alt={user.name} />
                 )}
-                <AvatarFallback className="rounded-full bg-muted text-muted-foreground text-xs">
+                <AvatarFallback className="rounded-full bg-muted text-xs text-muted-foreground">
                   {initials}
                 </AvatarFallback>
               </Avatar>
@@ -85,7 +81,7 @@ export function NavUser({
                   {user.avatar && (
                     <AvatarImage src={user.avatar} alt={user.name} />
                   )}
-                  <AvatarFallback className="rounded-full bg-muted text-muted-foreground text-xs">
+                  <AvatarFallback className="rounded-full bg-muted text-xs text-muted-foreground">
                     {initials}
                   </AvatarFallback>
                 </Avatar>

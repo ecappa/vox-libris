@@ -2,9 +2,12 @@ const ZOLA_TITLES: Record<string, string> = {
   "a-mes-amis.txt": "À Mes Amis",
   "a-mon-ami-paul.txt": "À Mon Ami Paul",
   "a-mon-dernier-amour.txt": "À Mon Dernier Amour",
-  "angeline-ou-la-maison-hantee--chapitre-01.txt": "Angeline ou la Maison Hantée",
-  "angeline-ou-la-maison-hantee--chapitre-02.txt": "Angeline ou la Maison Hantée",
-  "angeline-ou-la-maison-hantee--chapitre-03.txt": "Angeline ou la Maison Hantée",
+  "angeline-ou-la-maison-hantee--chapitre-01.txt":
+    "Angeline ou la Maison Hantée",
+  "angeline-ou-la-maison-hantee--chapitre-02.txt":
+    "Angeline ou la Maison Hantée",
+  "angeline-ou-la-maison-hantee--chapitre-03.txt":
+    "Angeline ou la Maison Hantée",
   "angeline-ou-la-maison-hantee.txt": "Angeline ou la Maison Hantée",
   "au-bonheur-des-dames--chapitre-01.txt": "Au Bonheur des Dames",
   "au-bonheur-des-dames--chapitre-02.txt": "Au Bonheur des Dames",
@@ -51,8 +54,10 @@ const ZOLA_TITLES: Record<string, string> = {
   "de-la-critique--chapitre-09.txt": "De la Critique",
   "de-la-critique.txt": "De la Critique",
   "de-la-moralite.txt": "De la Moralité",
-  "discours-dinauguration-du-buste-demmanuel-gonzales.txt": "Discours D’inauguration du Buste D’emmanuel Gonzales",
-  "discours-dinauguration-du-monument-de-guy-de-maupassant-au-parc-monceau.txt": "Discours D’inauguration du Monument de Guy de Maupassant au Parc Monceau",
+  "discours-dinauguration-du-buste-demmanuel-gonzales.txt":
+    "Discours D’inauguration du Buste D’emmanuel Gonzales",
+  "discours-dinauguration-du-monument-de-guy-de-maupassant-au-parc-monceau.txt":
+    "Discours D’inauguration du Monument de Guy de Maupassant au Parc Monceau",
   "documents-litteraires--chapitre-01.txt": "Documents Littéraires",
   "documents-litteraires--chapitre-02.txt": "Documents Littéraires",
   "documents-litteraires--chapitre-03.txt": "Documents Littéraires",
@@ -80,10 +85,12 @@ const ZOLA_TITLES: Record<string, string> = {
   "edouard-manet.txt": "Édouard Manet",
   "eloge-obseques-dalphonse-daudet.txt": "Éloge : Obsèques D’alphonse Daudet",
   "eloge-obseques-darsene-houssaye.txt": "Éloge : Obsèques D’arsène Houssaye",
-  "eloge-obseques-de-guy-de-maupassant.txt": "Éloge : Obsèques de Guy de Maupassant",
+  "eloge-obseques-de-guy-de-maupassant.txt":
+    "Éloge : Obsèques de Guy de Maupassant",
   "eloge-obseques-de-leon-cladel.txt": "Éloge : Obsèques de Léon Cladel",
   "eloge-obseques-de-paul-alexis.txt": "Éloge : Obsèques de Paul Alexis",
-  "eloge-obseques-dedmond-de-goncourt.txt": "Éloge : Obsèques D’edmond de Goncourt",
+  "eloge-obseques-dedmond-de-goncourt.txt":
+    "Éloge : Obsèques D’edmond de Goncourt",
   "emile-zola-notes-dun-ami--chapitre-01.txt": "Émile Zola – Notes D’un Ami",
   "emile-zola-notes-dun-ami--chapitre-02.txt": "Émile Zola – Notes D’un Ami",
   "emile-zola-notes-dun-ami--chapitre-03.txt": "Émile Zola – Notes D’un Ami",
@@ -97,16 +104,26 @@ const ZOLA_TITLES: Record<string, string> = {
   "emile-zola-notes-dun-ami--chapitre-11.txt": "Émile Zola – Notes D’un Ami",
   "emile-zola-notes-dun-ami--chapitre-12.txt": "Émile Zola – Notes D’un Ami",
   "emile-zola-notes-dun-ami.txt": "Émile Zola – Notes D’un Ami",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-01.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-02.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-03.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-04.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-05.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-06.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-07.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-08.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-09.txt": "Émile Zola : Sa Vie – Son Oeuvre",
-  "emile-zola-sa-vie-son-oeuvre--chapitre-10.txt": "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-01.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-02.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-03.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-04.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-05.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-06.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-07.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-08.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-09.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
+  "emile-zola-sa-vie-son-oeuvre--chapitre-10.txt":
+    "Émile Zola : Sa Vie – Son Oeuvre",
   "emile-zola-sa-vie-son-oeuvre.txt": "Émile Zola : Sa Vie – Son Oeuvre",
   "esquisses-parisiennes--chapitre-01.txt": "Esquisses Parisiennes",
   "esquisses-parisiennes--chapitre-02.txt": "Esquisses Parisiennes",
@@ -253,9 +270,12 @@ const ZOLA_TITLES: Record<string, string> = {
   "la-mort-dolivier-becaille--chapitre-05.txt": "La Mort D’olivier Bécaille",
   "la-mort-dolivier-becaille--chapitre-06.txt": "La Mort D’olivier Bécaille",
   "la-mort-dolivier-becaille.txt": "La Mort D’olivier Bécaille",
-  "la-republique-et-la-litterature--chapitre-01.txt": "La République et la Littérature",
-  "la-republique-et-la-litterature--chapitre-02.txt": "La République et la Littérature",
-  "la-republique-et-la-litterature--chapitre-03.txt": "La République et la Littérature",
+  "la-republique-et-la-litterature--chapitre-01.txt":
+    "La République et la Littérature",
+  "la-republique-et-la-litterature--chapitre-02.txt":
+    "La République et la Littérature",
+  "la-republique-et-la-litterature--chapitre-03.txt":
+    "La République et la Littérature",
   "la-republique-et-la-litterature.txt": "La République et la Littérature",
   "la-riviere--chapitre-01.txt": "La Rivière",
   "la-riviere--chapitre-02.txt": "La Rivière",
@@ -270,25 +290,44 @@ const ZOLA_TITLES: Record<string, string> = {
   "la-terre--chapitre-04.txt": "La Terre",
   "la-terre--chapitre-05.txt": "La Terre",
   "la-terre.txt": "La Terre",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-01.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-02.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-03.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-04.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-05.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-06.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-07.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-08.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-09.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-10.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-11.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-12.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-13.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-14.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-15.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-16.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-17.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus--chapitre-18.txt": "La Vérité en Marche (l’affaire Dreyfus)",
-  "la-verite-en-marche-laffaire-dreyfus.txt": "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-01.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-02.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-03.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-04.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-05.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-06.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-07.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-08.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-09.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-10.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-11.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-12.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-13.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-14.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-15.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-16.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-17.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus--chapitre-18.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
+  "la-verite-en-marche-laffaire-dreyfus.txt":
+    "La Vérité en Marche (l’affaire Dreyfus)",
   "lamoureuse-comedie--chapitre-01.txt": "L'Amoureuse Comédie",
   "lamoureuse-comedie--chapitre-02.txt": "L'Amoureuse Comédie",
   "lamoureuse-comedie--chapitre-03.txt": "L'Amoureuse Comédie",
@@ -306,12 +345,18 @@ const ZOLA_TITLES: Record<string, string> = {
   "largent--chapitre-10.txt": "L'Argent",
   "largent--chapitre-11.txt": "L'Argent",
   "largent--chapitre-12.txt": "L'Argent",
-  "largent-dans-la-litterature--chapitre-01.txt": "L’argent dans la Littérature",
-  "largent-dans-la-litterature--chapitre-02.txt": "L’argent dans la Littérature",
-  "largent-dans-la-litterature--chapitre-03.txt": "L’argent dans la Littérature",
-  "largent-dans-la-litterature--chapitre-04.txt": "L’argent dans la Littérature",
-  "largent-dans-la-litterature--chapitre-05.txt": "L’argent dans la Littérature",
-  "largent-dans-la-litterature--chapitre-06.txt": "L’argent dans la Littérature",
+  "largent-dans-la-litterature--chapitre-01.txt":
+    "L’argent dans la Littérature",
+  "largent-dans-la-litterature--chapitre-02.txt":
+    "L’argent dans la Littérature",
+  "largent-dans-la-litterature--chapitre-03.txt":
+    "L’argent dans la Littérature",
+  "largent-dans-la-litterature--chapitre-04.txt":
+    "L’argent dans la Littérature",
+  "largent-dans-la-litterature--chapitre-05.txt":
+    "L’argent dans la Littérature",
+  "largent-dans-la-litterature--chapitre-06.txt":
+    "L’argent dans la Littérature",
   "largent-dans-la-litterature.txt": "L’argent dans la Littérature",
   "largent.txt": "L'Argent",
   "lassommoir--chapitre-01.txt": "L'Assommoir",
@@ -419,12 +464,18 @@ const ZOLA_TITLES: Record<string, string> = {
   "le-voeu-dune-morte--chapitre-15.txt": "Le Voeu D’une Morte",
   "le-voeu-dune-morte--chapitre-16.txt": "Le Voeu D’une Morte",
   "le-voeu-dune-morte.txt": "Le Voeu D’une Morte",
-  "les-coquillages-de-m-chabre--chapitre-01.txt": "Les Coquillages de M. Chabre",
-  "les-coquillages-de-m-chabre--chapitre-02.txt": "Les Coquillages de M. Chabre",
-  "les-coquillages-de-m-chabre--chapitre-03.txt": "Les Coquillages de M. Chabre",
-  "les-coquillages-de-m-chabre--chapitre-04.txt": "Les Coquillages de M. Chabre",
-  "les-coquillages-de-m-chabre--chapitre-05.txt": "Les Coquillages de M. Chabre",
-  "les-coquillages-de-m-chabre--chapitre-06.txt": "Les Coquillages de M. Chabre",
+  "les-coquillages-de-m-chabre--chapitre-01.txt":
+    "Les Coquillages de M. Chabre",
+  "les-coquillages-de-m-chabre--chapitre-02.txt":
+    "Les Coquillages de M. Chabre",
+  "les-coquillages-de-m-chabre--chapitre-03.txt":
+    "Les Coquillages de M. Chabre",
+  "les-coquillages-de-m-chabre--chapitre-04.txt":
+    "Les Coquillages de M. Chabre",
+  "les-coquillages-de-m-chabre--chapitre-05.txt":
+    "Les Coquillages de M. Chabre",
+  "les-coquillages-de-m-chabre--chapitre-06.txt":
+    "Les Coquillages de M. Chabre",
   "les-coquillages-de-m-chabre.txt": "Les Coquillages de M. Chabre",
   "les-heritiers-rabourdin--chapitre-01.txt": "Les Héritiers Rabourdin",
   "les-heritiers-rabourdin--chapitre-02.txt": "Les Héritiers Rabourdin",
@@ -441,30 +492,51 @@ const ZOLA_TITLES: Record<string, string> = {
   "les-mysteres-de-marseille--chapitre-03.txt": "Les Mystères de Marseille",
   "les-mysteres-de-marseille--chapitre-04.txt": "Les Mystères de Marseille",
   "les-mysteres-de-marseille.txt": "Les Mystères de Marseille",
-  "les-quatre-evangiles-fecondite--chapitre-01.txt": "Les Quatre Évangiles : Fécondité",
-  "les-quatre-evangiles-fecondite--chapitre-02.txt": "Les Quatre Évangiles : Fécondité",
-  "les-quatre-evangiles-fecondite--chapitre-03.txt": "Les Quatre Évangiles : Fécondité",
-  "les-quatre-evangiles-fecondite--chapitre-04.txt": "Les Quatre Évangiles : Fécondité",
-  "les-quatre-evangiles-fecondite--chapitre-05.txt": "Les Quatre Évangiles : Fécondité",
-  "les-quatre-evangiles-fecondite--chapitre-06.txt": "Les Quatre Évangiles : Fécondité",
+  "les-quatre-evangiles-fecondite--chapitre-01.txt":
+    "Les Quatre Évangiles : Fécondité",
+  "les-quatre-evangiles-fecondite--chapitre-02.txt":
+    "Les Quatre Évangiles : Fécondité",
+  "les-quatre-evangiles-fecondite--chapitre-03.txt":
+    "Les Quatre Évangiles : Fécondité",
+  "les-quatre-evangiles-fecondite--chapitre-04.txt":
+    "Les Quatre Évangiles : Fécondité",
+  "les-quatre-evangiles-fecondite--chapitre-05.txt":
+    "Les Quatre Évangiles : Fécondité",
+  "les-quatre-evangiles-fecondite--chapitre-06.txt":
+    "Les Quatre Évangiles : Fécondité",
   "les-quatre-evangiles-fecondite.txt": "Les Quatre Évangiles : Fécondité",
-  "les-quatre-evangiles-travail--chapitre-01.txt": "Les Quatre Évangiles : Travail",
-  "les-quatre-evangiles-travail--chapitre-02.txt": "Les Quatre Évangiles : Travail",
-  "les-quatre-evangiles-travail--chapitre-03.txt": "Les Quatre Évangiles : Travail",
+  "les-quatre-evangiles-travail--chapitre-01.txt":
+    "Les Quatre Évangiles : Travail",
+  "les-quatre-evangiles-travail--chapitre-02.txt":
+    "Les Quatre Évangiles : Travail",
+  "les-quatre-evangiles-travail--chapitre-03.txt":
+    "Les Quatre Évangiles : Travail",
   "les-quatre-evangiles-travail.txt": "Les Quatre Évangiles : Travail",
-  "les-quatre-evangiles-verite--chapitre-01.txt": "Les Quatre Évangiles : Vérité",
-  "les-quatre-evangiles-verite--chapitre-02.txt": "Les Quatre Évangiles : Vérité",
-  "les-quatre-evangiles-verite--chapitre-03.txt": "Les Quatre Évangiles : Vérité",
-  "les-quatre-evangiles-verite--chapitre-04.txt": "Les Quatre Évangiles : Vérité",
+  "les-quatre-evangiles-verite--chapitre-01.txt":
+    "Les Quatre Évangiles : Vérité",
+  "les-quatre-evangiles-verite--chapitre-02.txt":
+    "Les Quatre Évangiles : Vérité",
+  "les-quatre-evangiles-verite--chapitre-03.txt":
+    "Les Quatre Évangiles : Vérité",
+  "les-quatre-evangiles-verite--chapitre-04.txt":
+    "Les Quatre Évangiles : Vérité",
   "les-quatre-evangiles-verite.txt": "Les Quatre Évangiles : Vérité",
-  "les-romanciers-contemporains--chapitre-01.txt": "Les Romanciers Contemporains",
-  "les-romanciers-contemporains--chapitre-02.txt": "Les Romanciers Contemporains",
-  "les-romanciers-contemporains--chapitre-03.txt": "Les Romanciers Contemporains",
-  "les-romanciers-contemporains--chapitre-04.txt": "Les Romanciers Contemporains",
-  "les-romanciers-contemporains--chapitre-05.txt": "Les Romanciers Contemporains",
-  "les-romanciers-contemporains--chapitre-06.txt": "Les Romanciers Contemporains",
-  "les-romanciers-contemporains--chapitre-07.txt": "Les Romanciers Contemporains",
-  "les-romanciers-contemporains--chapitre-08.txt": "Les Romanciers Contemporains",
+  "les-romanciers-contemporains--chapitre-01.txt":
+    "Les Romanciers Contemporains",
+  "les-romanciers-contemporains--chapitre-02.txt":
+    "Les Romanciers Contemporains",
+  "les-romanciers-contemporains--chapitre-03.txt":
+    "Les Romanciers Contemporains",
+  "les-romanciers-contemporains--chapitre-04.txt":
+    "Les Romanciers Contemporains",
+  "les-romanciers-contemporains--chapitre-05.txt":
+    "Les Romanciers Contemporains",
+  "les-romanciers-contemporains--chapitre-06.txt":
+    "Les Romanciers Contemporains",
+  "les-romanciers-contemporains--chapitre-07.txt":
+    "Les Romanciers Contemporains",
+  "les-romanciers-contemporains--chapitre-08.txt":
+    "Les Romanciers Contemporains",
   "les-romanciers-contemporains.txt": "Les Romanciers Contemporains",
   "les-romanciers-naturalistes--chapitre-01.txt": "Les Romanciers Naturalistes",
   "les-romanciers-naturalistes--chapitre-02.txt": "Les Romanciers Naturalistes",
@@ -703,20 +775,34 @@ const ZOLA_TITLES: Record<string, string> = {
   "pour-une-nuit-damour--chapitre-05.txt": "Pour une Nuit D’amour",
   "pour-une-nuit-damour.txt": "Pour une Nuit D’amour",
   "religion.txt": "Religion",
-  "son-excellence-eugene-rougon--chapitre-01.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-02.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-03.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-04.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-05.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-06.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-07.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-08.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-09.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-10.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-11.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-12.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-13.txt": "Son Excellence Eugène Rougon",
-  "son-excellence-eugene-rougon--chapitre-14.txt": "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-01.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-02.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-03.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-04.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-05.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-06.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-07.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-08.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-09.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-10.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-11.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-12.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-13.txt":
+    "Son Excellence Eugène Rougon",
+  "son-excellence-eugene-rougon--chapitre-14.txt":
+    "Son Excellence Eugène Rougon",
   "son-excellence-eugene-rougon.txt": "Son Excellence Eugène Rougon",
   "therese-raquin--chapitre-01.txt": "Thérèse Raquin",
   "therese-raquin--chapitre-02.txt": "Thérèse Raquin",

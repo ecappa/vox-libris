@@ -5,7 +5,9 @@ const RAGFLOW_BASE = "https://ragflow.cappasoft.cloud/api/v1"
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   const apiKey = process.env.RAGFLOW_ADMIN_API_KEY
   if (!apiKey) {
-    return res.status(500).json({ error: "RAGFLOW_ADMIN_API_KEY not configured" })
+    return res
+      .status(500)
+      .json({ error: "RAGFLOW_ADMIN_API_KEY not configured" })
   }
 
   const url = req.url ?? ""
@@ -55,6 +57,8 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     res.setHeader("Cache-Control", "s-maxage=30, stale-while-revalidate=60")
     return res.status(response.status).send(data)
   } catch (err) {
-    return res.status(502).json({ error: "RAGFlow proxy error", detail: String(err) })
+    return res
+      .status(502)
+      .json({ error: "RAGFlow proxy error", detail: String(err) })
   }
 }

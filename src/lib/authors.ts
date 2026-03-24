@@ -37,7 +37,10 @@ export function getAuthorById(id: string): AuthorConfig | undefined {
 export function resolveTitle(authorId: string, filename: string): string {
   const author = getAuthorById(authorId)
   if (author) {
-    return author.titles[filename] ?? filename.replace(/\.txt$/, "").replace(/-/g, " ")
+    return (
+      author.titles[filename] ??
+      filename.replace(/\.txt$/, "").replace(/-/g, " ")
+    )
   }
   return filename.replace(/\.txt$/, "").replace(/-/g, " ")
 }
