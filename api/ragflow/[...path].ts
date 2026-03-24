@@ -2,21 +2,40 @@ import type { VercelRequest, VercelResponse } from "@vercel/node"
 
 const RAGFLOW_BASE = "https://ragflow.cappasoft.cloud/api/v1"
 
+function ragflowPathFromRequest(req: VercelRequest): string {
+  const pathParam = req.query.path
+  if (Array.isArray(pathParam)) return pathParam.filter(Boolean).join("/")
+  if (typeof pathParam === "string" && pathParam.length > 0) return pathParam
+
+  // Vercel ne remplit pas toujours `query.path` pour les routes catch-all ; même logique que le proxy Vite.
+  const pathname = (req.url ?? "").split("?")[0] ?? ""
+  const prefix = "/api/ragflow/"
+  if (pathname.startsWith(prefix)) {
+    return decodeURIComponent(pathname.slice(prefix.length)).replace(/^\/+/, "")
+  }
+  // Certaines invocations Vercel ne préfixent pas l’URL (ex. relatif à la fonction).
+  const trimmed = pathname.replace(/^\/+/, "")
+  if (trimmed && !trimmed.includes("..")) return trimmed
+  return ""
+}
+
 export default async function handler(req: VercelRequest, res: VercelResponse) {
   const apiKey = process.env.RAGFLOW_ADMIN_API_KEY
   if (!apiKey) {
     return res.status(500).json({ error: "RAGFLOW_ADMIN_API_KEY not configured" })
   }
 
-  const pathSegments = req.query.path
-  const ragflowPath = Array.isArray(pathSegments)
-    ? pathSegments.join("/")
-    : pathSegments ?? ""
+  const ragflowPath = ragflowPathFromRequest(req)
 
-  const queryString = new URLSearchParams(
-    req.query as Record<string, string>
-  )
-  queryString.delete("path")
+  const queryString = new URLSearchParams()
+  for (const [k, v] of Object.entries(req.query)) {
+    if (k === "path") continue
+    if (v === undefined) continue
+    const values = Array.isArray(v) ? v : [v]
+    for (const item of values) {
+      if (item !== undefined) queryString.append(k, item)
+    }
+  }
   const qs = queryString.toString()
   const targetUrl = `${RAGFLOW_BASE}/${ragflowPath}${qs ? `?${qs}` : ""}`
 
