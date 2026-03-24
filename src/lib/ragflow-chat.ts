@@ -78,10 +78,6 @@ export interface StreamHandlers {
   onError: (err: Error) => void
 }
 
-/**
- * Consomme le flux SSE RAGFlow (`data: {...}` par ligne).
- * Les deltas `answer` sont concaténés côté appelant via onDelta.
- */
 export async function chatCompletionStream(
   chatId: string,
   sessionId: string,
@@ -125,13 +121,14 @@ export async function chatCompletionStream(
   }
 
   if (!res.body) {
-    handlers.onError(new Error("Réponse vide"))
+    handlers.onError(new Error("Empty response body"))
     return
   }
 
   const reader = res.body.getReader()
   const decoder = new TextDecoder()
   let buffer = ""
+  let eventCount = 0
 
   try {
     while (true) {
@@ -161,25 +158,40 @@ export async function chatCompletionStream(
         try {
           msg = JSON.parse(raw) as typeof msg
         } catch {
+          console.warn("[vox-sse] JSON parse failed:", raw.slice(0, 120))
           continue
         }
 
         if (msg.code !== undefined && msg.code !== 0) {
+          console.error("[vox-sse] error from RAGFlow:", msg.message)
           handlers.onError(new Error(msg.message ?? `code ${msg.code}`))
           return
         }
 
         const d = msg.data
         if (d === true || d === undefined) continue
-        if (typeof d.answer === "string" && d.answer.length > 0 && !d.final) {
+
+        eventCount++
+        if (typeof d.answer === "string" && d.answer.length > 0) {
+          console.log(
+            `[vox-sse] #${eventCount} delta (${d.answer.length} chars)`,
+            d.answer.slice(0, 80),
+            d.final ? "[FINAL]" : ""
+          )
           handlers.onDelta(d.answer)
         }
         if (d.final === true) {
+          console.log(
+            `[vox-sse] final event, ref chunks:`,
+            d.reference?.total ?? 0
+          )
           handlers.onFinal(d.reference ?? null)
         }
       }
     }
+    console.log(`[vox-sse] stream ended, ${eventCount} events processed`)
   } catch (e) {
+    console.error("[vox-sse] stream error:", e)
     handlers.onError(e instanceof Error ? e : new Error(String(e)))
   }
 }
