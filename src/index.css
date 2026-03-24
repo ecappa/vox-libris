@@ -174,6 +174,31 @@
   }
 }
 
+.prose-vox p { margin-bottom: 0.75em; }
+.prose-vox p:last-child { margin-bottom: 0; }
+.prose-vox h1, .prose-vox h2, .prose-vox h3, .prose-vox h4 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
+  line-height: 1.3;
+}
+.prose-vox h1 { font-size: 1.25rem; }
+.prose-vox h2 { font-size: 1.1rem; }
+.prose-vox h3 { font-size: 1rem; }
+.prose-vox ul, .prose-vox ol { padding-left: 1.25em; margin-bottom: 0.75em; }
+.prose-vox li { margin-bottom: 0.25em; }
+.prose-vox blockquote {
+  border-left: 2px solid var(--border);
+  padding-left: 1em;
+  margin: 0.75em 0;
+  font-style: italic;
+  opacity: 0.9;
+}
+.prose-vox em { font-style: italic; }
+.prose-vox strong { font-weight: 600; }
+.prose-vox hr { border-color: var(--border); margin: 1em 0; }
+
 @keyframes word-fade {
   from { opacity: 0; }
   to   { opacity: 1; }

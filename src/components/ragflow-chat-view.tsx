@@ -1,5 +1,6 @@
 import * as React from "react"
 import { motion } from "motion/react"
+import Markdown from "react-markdown"
 import {
   ArrowLeftIcon,
   MessageSquareIcon,
@@ -120,32 +121,41 @@ function AnswerBody({
 }
 
 /* ------------------------------------------------------------------ */
-/*  ReferencePanel — slide-in panel showing chunk content               */
+/*  ReferencePanel — slide-in panel showing document chunks as markdown */
 /* ------------------------------------------------------------------ */
 
 function ReferencePanel({
-  chunk,
-  index,
+  title,
+  chunks,
+  highlightIndex,
   onClose,
 }: {
-  chunk: RagflowRefChunk
-  index: number
+  title: string
+  chunks: RagflowRefChunk[]
+  highlightIndex?: number
   onClose: () => void
 }) {
+  const highlightRef = React.useRef<HTMLDivElement>(null)
+
+  React.useEffect(() => {
+    highlightRef.current?.scrollIntoView({ behavior: "smooth", block: "start" })
+  }, [highlightIndex])
+
   return (
-    <div className="flex h-full w-[min(100vw,420px)] shrink-0 flex-col border-l border-border bg-card">
+    <div className="flex h-full w-[min(100vw,480px)] shrink-0 flex-col border-l border-border bg-card">
       <header className="flex items-center justify-between gap-2 border-b border-border px-4 py-3">
         <div className="flex min-w-0 items-center gap-2">
           <BookOpenIcon className="size-4 shrink-0 text-muted-foreground" />
           <div className="min-w-0">
-            <p className="truncate text-xs font-medium text-foreground">
-              Source {index}
+            <p
+              className="truncate text-sm font-medium text-foreground"
+              style={{ fontFamily: "var(--font-heading)" }}
+            >
+              {title}
             </p>
-            {chunk.document_name && (
-              <p className="truncate text-[11px] text-muted-foreground">
-                {chunk.document_name}
-              </p>
-            )}
+            <p className="text-[11px] text-muted-foreground">
+              {chunks.length} extrait{chunks.length > 1 ? "s" : ""}
+            </p>
           </div>
         </div>
         <Button
@@ -160,18 +170,31 @@ function ReferencePanel({
         </Button>
       </header>
 
-      {chunk.similarity != null && (
-        <div className="border-b border-border/60 px-4 py-2">
-          <span className="font-mono text-[10px] text-muted-foreground">
-            Similarité : {(chunk.similarity * 100).toFixed(1)}%
-          </span>
-        </div>
-      )}
-
-      <div className="min-h-0 flex-1 overflow-y-auto px-4 py-4">
-        <blockquote className="whitespace-pre-wrap border-l-2 border-foreground/20 pl-4 text-sm leading-relaxed text-card-foreground/90">
-          {chunk.content ?? "Contenu non disponible."}
-        </blockquote>
+      <div className="min-h-0 flex-1 overflow-y-auto">
+        {chunks.map((chunk, i) => (
+          <div
+            key={chunk.id ?? i}
+            ref={i === highlightIndex ? highlightRef : undefined}
+            className={cn(
+              "border-b border-border/40 px-5 py-4",
+              i === highlightIndex && "bg-muted/50"
+            )}
+          >
+            <div className="mb-2 flex items-center justify-between">
+              <span className="font-mono text-[10px] font-medium text-muted-foreground">
+                Extrait {i + 1}
+              </span>
+              {chunk.similarity != null && (
+                <span className="font-mono text-[10px] text-muted-foreground/70">
+                  {(chunk.similarity * 100).toFixed(1)}%
+                </span>
+              )}
+            </div>
+            <div className="prose-vox text-sm leading-relaxed text-card-foreground/90">
+              <Markdown>{chunk.content ?? ""}</Markdown>
+            </div>
+          </div>
+        ))}
       </div>
     </div>
   )
@@ -256,9 +279,10 @@ export function RagflowChatView({
   const [sending, setSending] = React.useState(false)
   const [error, setError] = React.useState<string | null>(null)
   const [debugLines, setDebugLines] = React.useState<string[]>([])
-  const [activeRef, setActiveRef] = React.useState<{
-    msgId: string
-    chunkIndex: number
+  const [panelData, setPanelData] = React.useState<{
+    title: string
+    chunks: RagflowRefChunk[]
+    highlightIndex?: number
   } | null>(null)
   const scrollRef = React.useRef<HTMLDivElement>(null)
   const textareaRef = React.useRef<HTMLTextAreaElement>(null)
@@ -271,7 +295,7 @@ export function RagflowChatView({
   React.useEffect(() => {
     setMessages([])
     setError(null)
-    setActiveRef(null)
+    setPanelData(null)
   }, [chatId])
 
   React.useEffect(() => {
@@ -321,7 +345,13 @@ export function RagflowChatView({
       if (!chunks?.length) return
       const idx = refId - 1
       if (idx < 0 || idx >= chunks.length) return
-      setActiveRef({ msgId, chunkIndex: idx })
+      const chunk = chunks[idx]
+      const docName = chunk.document_name ?? `Source ${refId}`
+      const docChunks = chunks.filter(
+        (c) => c.document_name === chunk.document_name
+      )
+      const highlightIndex = docChunks.indexOf(chunk)
+      setPanelData({ title: docName, chunks: docChunks, highlightIndex })
     },
     [messages]
   )
@@ -334,21 +364,12 @@ export function RagflowChatView({
       if (!msg || msg.role !== "assistant") return
       const chunks = msg.reference?.chunks
       if (!chunks?.length) return
-      const idx = chunks.findIndex((c) => c.document_name === docName)
-      if (idx < 0) return
-      setActiveRef({ msgId, chunkIndex: idx })
+      const docChunks = chunks.filter((c) => c.document_name === docName)
+      if (!docChunks.length) return
+      setPanelData({ title: docName, chunks: docChunks })
     },
     [messages]
   )
-
-  const activeChunk: RagflowRefChunk | null = React.useMemo(() => {
-    if (!activeRef) return null
-    const msg = messages.find(
-      (m) => m.role === "assistant" && m.id === activeRef.msgId
-    )
-    if (!msg || msg.role !== "assistant") return null
-    return msg.reference?.chunks?.[activeRef.chunkIndex] ?? null
-  }, [activeRef, messages])
 
   const sendMessage = React.useCallback(async () => {
     const text = input.trim()
@@ -358,7 +379,7 @@ export function RagflowChatView({
     setError(null)
     setSending(true)
     setThinking(true)
-    setActiveRef(null)
+    setPanelData(null)
 
     const userMsg: ChatMessage = { role: "user", id: newId(), text }
     const assistantId = newId()
@@ -465,7 +486,7 @@ export function RagflowChatView({
     localStorage.removeItem(sessionStorageKey(chatId))
     setMessages([])
     setError(null)
-    setActiveRef(null)
+    setPanelData(null)
   }, [chatId])
 
   const applyCustomChatId = React.useCallback(() => {
@@ -727,11 +748,12 @@ export function RagflowChatView({
       </div>
 
       {/* -------- Reference panel -------- */}
-      {activeChunk && activeRef && (
+      {panelData && (
         <ReferencePanel
-          chunk={activeChunk}
-          index={activeRef.chunkIndex + 1}
-          onClose={() => setActiveRef(null)}
+          title={panelData.title}
+          chunks={panelData.chunks}
+          highlightIndex={panelData.highlightIndex}
+          onClose={() => setPanelData(null)}
         />
       )}
     </div>
