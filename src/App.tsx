@@ -1,22 +1,90 @@
+import * as React from "react"
 import { AppSidebar } from "@/components/app-sidebar"
 import { SiteHeader } from "@/components/site-header"
 import { SectionCards } from "@/components/section-cards"
 import { ChartAreaInteractive } from "@/components/chart-area-interactive"
 import { DataTable } from "@/components/data-table"
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar"
-import tableData from "./app/dashboard/data.json"
+import { useDatasets, useDocuments } from "@/hooks/use-ragflow"
+import { AUTHORS, resolveTitle } from "@/lib/authors"
 
 export function App() {
+  const [selectedAuthorId, setSelectedAuthorId] = React.useState("victor-hugo")
+  const selectedAuthor = AUTHORS.find((a) => a.id === selectedAuthorId) ?? AUTHORS[0]
+
+  const { datasets, loading: datasetsLoading, refresh: refreshDatasets } = useDatasets()
+  const { docs, total: totalDocs, loading: docsLoading, refresh: refreshDocs } = useDocuments(selectedAuthor.datasetId)
+
+  const handleRefresh = React.useCallback(() => {
+    refreshDatasets()
+    refreshDocs()
+  }, [refreshDatasets, refreshDocs])
+
+  const activeDataset = datasets.find((d) => d.id === selectedAuthor.datasetId)
+
+  const datasetsWithDocs = AUTHORS.map((a) => {
+    const ds = datasets.find((d) => d.id === a.datasetId)
+    return { author: a, dataset: ds }
+  })
+  const readyCount = datasetsWithDocs.filter(
+    (d) => d.dataset && d.dataset.document_count > 0,
+  ).length
+
+  const statusCounts = docs.reduce(
+    (acc, d) => {
+      acc[d.run] = (acc[d.run] || 0) + 1
+      return acc
+    },
+    {} as Record<string, number>,
+  )
+
+  const tableData = docs.map((doc, i) => ({
+    id: i + 1,
+    header: resolveTitle(selectedAuthor.id, doc.name),
+    type: "Œuvre",
+    status:
+      doc.run === "DONE"
+        ? "Indexé"
+        : doc.run === "RUNNING"
+          ? "En cours"
+          : doc.run === "FAIL"
+            ? "Erreur"
+            : "En attente",
+    target: "1",
+    limit: String(doc.chunk_count),
+    reviewer: selectedAuthor.name,
+  }))
+
   return (
     <SidebarProvider>
-      <AppSidebar />
+      <AppSidebar
+        selectedAuthorId={selectedAuthorId}
+        onSelectAuthor={setSelectedAuthorId}
+      />
       <SidebarInset>
-        <SiteHeader />
-        <div className="flex flex-1 flex-col gap-8 p-8 pt-0">
-          <SectionCards />
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 px-4 pb-8 w-full">
-            <ChartAreaInteractive />
-            <DataTable data={tableData} />
+        <SiteHeader
+          selectedAuthorId={selectedAuthorId}
+          onSelectAuthor={setSelectedAuthorId}
+        />
+        <div className="flex flex-1 flex-col gap-8 p-8">
+          <SectionCards
+            dataset={activeDataset ?? null}
+            authorName={selectedAuthor.name}
+            statusCounts={statusCounts}
+            totalDocs={totalDocs}
+            readyCount={readyCount}
+            totalAuthors={AUTHORS.length}
+            loading={datasetsLoading || docsLoading}
+            onRefresh={handleRefresh}
+          />
+          <div className="px-4 lg:px-6">
+            <DataTable data={tableData} loading={docsLoading} />
+          </div>
+          <div className="px-4 lg:px-6">
+            <ChartAreaInteractive
+              dataset={activeDataset ?? null}
+              loading={datasetsLoading}
+            />
           </div>
         </div>
       </SidebarInset>

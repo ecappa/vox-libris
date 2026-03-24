@@ -9,101 +9,150 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card"
-import { TrendingUpIcon, TrendingDownIcon } from "lucide-react"
+import { Button } from "@/components/ui/button"
+import {
+  BookOpenIcon,
+  LayersIcon,
+  DatabaseIcon,
+  RefreshCwIcon,
+} from "lucide-react"
+import type { RagflowDataset } from "@/lib/ragflow"
 
-export function SectionCards() {
+interface SectionCardsProps {
+  dataset: RagflowDataset | null
+  authorName: string
+  statusCounts: Record<string, number>
+  totalDocs: number
+  readyCount: number
+  totalAuthors: number
+  loading: boolean
+  onRefresh: () => void
+}
+
+function formatNumber(n: number) {
+  return n.toLocaleString("fr-FR")
+}
+
+export function SectionCards({
+  dataset,
+  authorName,
+  statusCounts,
+  totalDocs,
+  readyCount,
+  totalAuthors,
+  loading,
+  onRefresh,
+}: SectionCardsProps) {
+  const docCount = dataset?.document_count ?? 0
+  const chunkCount = dataset?.chunk_count ?? 0
+  const tokenCount = dataset?.token_num ?? 0
+  const doneCount = statusCounts["DONE"] ?? 0
+  const runningCount = statusCounts["RUNNING"] ?? 0
+  const failCount = statusCounts["FAIL"] ?? 0
+
   return (
-    <div className="grid grid-cols-1 gap-4 px-4 *:data-[slot=card]:bg-gradient-to-t *:data-[slot=card]:from-primary/5 *:data-[slot=card]:to-card *:data-[slot=card]:shadow-xs lg:px-6 @xl/main:grid-cols-2 @5xl/main:grid-cols-4 dark:*:data-[slot=card]:bg-card">
+    <div className="grid grid-cols-1 gap-4 px-4 *:data-[slot=card]:shadow-xs lg:px-6 md:grid-cols-2">
       <Card className="@container/card">
         <CardHeader>
-          <CardDescription>Total Revenue</CardDescription>
+          <CardDescription>Documents</CardDescription>
           <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
-            $1,250.00
+            {formatNumber(docCount)}
           </CardTitle>
           <CardAction>
             <Badge variant="outline">
-              <TrendingUpIcon
-              />
-              +12.5%
+              <BookOpenIcon className="size-3" />
+              {authorName}
             </Badge>
           </CardAction>
         </CardHeader>
         <CardFooter className="flex-col items-start gap-1.5 text-sm">
           <div className="line-clamp-1 flex gap-2 font-medium">
-            Trending up this month{" "}
-            <TrendingUpIcon className="size-4" />
+            Dataset « {dataset?.name ?? "..."} »
           </div>
           <div className="text-muted-foreground">
-            Visitors for the last 6 months
+            Méthode : {dataset?.chunk_method ?? "..."} · {dataset?.language ?? "..."}
           </div>
         </CardFooter>
       </Card>
       <Card className="@container/card">
         <CardHeader>
-          <CardDescription>New Customers</CardDescription>
+          <CardDescription>Statut d'indexation</CardDescription>
           <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
-            1,234
+            {totalDocs > 0 ? `${doneCount}/${totalDocs}` : "—"}
           </CardTitle>
           <CardAction>
             <Badge variant="outline">
-              <TrendingDownIcon
-              />
-              -20%
+              <DatabaseIcon className="size-3" />
+              {totalDocs === 0 ? "vide" : doneCount === totalDocs ? "terminé" : "en cours"}
             </Badge>
           </CardAction>
         </CardHeader>
         <CardFooter className="flex-col items-start gap-1.5 text-sm">
-          <div className="line-clamp-1 flex gap-2 font-medium">
-            Down 20% this period{" "}
-            <TrendingDownIcon className="size-4" />
+          <div className="flex w-full items-center justify-between">
+            <div className="line-clamp-1 flex gap-2 font-medium">
+              {totalDocs > 0
+                ? `${doneCount} terminés · ${runningCount} en cours · ${failCount} erreurs`
+                : "Aucun document uploadé"}
+            </div>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="size-7 shrink-0"
+              onClick={onRefresh}
+              disabled={loading}
+            >
+              <RefreshCwIcon className={`size-3.5 ${loading ? "animate-spin" : ""}`} />
+              <span className="sr-only">Rafraîchir</span>
+            </Button>
           </div>
           <div className="text-muted-foreground">
-            Acquisition needs attention
+            Progression de l'indexation
           </div>
         </CardFooter>
       </Card>
       <Card className="@container/card">
         <CardHeader>
-          <CardDescription>Active Accounts</CardDescription>
+          <CardDescription>Chunks</CardDescription>
           <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
-            45,678
+            {formatNumber(chunkCount)}
           </CardTitle>
           <CardAction>
             <Badge variant="outline">
-              <TrendingUpIcon
-              />
-              +12.5%
+              <LayersIcon className="size-3" />
+              {dataset?.chunk_method ?? "..."}
             </Badge>
           </CardAction>
         </CardHeader>
         <CardFooter className="flex-col items-start gap-1.5 text-sm">
           <div className="line-clamp-1 flex gap-2 font-medium">
-            Strong user retention{" "}
-            <TrendingUpIcon className="size-4" />
+            {formatNumber(tokenCount)} tokens
           </div>
-          <div className="text-muted-foreground">Engagement exceed targets</div>
+          <div className="text-muted-foreground">
+            Embedding : {dataset?.embedding_model ?? "..."}
+          </div>
         </CardFooter>
       </Card>
       <Card className="@container/card">
         <CardHeader>
-          <CardDescription>Growth Rate</CardDescription>
+          <CardDescription>Datasets RAGFlow</CardDescription>
           <CardTitle className="text-2xl font-semibold tabular-nums @[250px]/card:text-3xl">
-            4.5%
+            {`${readyCount} / ${totalAuthors}`}
           </CardTitle>
           <CardAction>
             <Badge variant="outline">
-              <TrendingUpIcon
-              />
-              +4.5%
+              {readyCount === totalAuthors ? "complet" : "en attente"}
             </Badge>
           </CardAction>
         </CardHeader>
         <CardFooter className="flex-col items-start gap-1.5 text-sm">
           <div className="line-clamp-1 flex gap-2 font-medium">
-            Steady performance increase{" "}
-            <TrendingUpIcon className="size-4" />
+            {readyCount === totalAuthors
+              ? "Tous les auteurs sont prêts"
+              : `${totalAuthors - readyCount} auteur(s) sans documents`}
           </div>
-          <div className="text-muted-foreground">Meets growth projections</div>
+          <div className="text-muted-foreground">
+            {totalAuthors} auteurs au total dans le corpus
+          </div>
         </CardFooter>
       </Card>
     </div>
