@@ -2,14 +2,12 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 
-
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-    --font-heading: var(--font-sans);
-    --font-sans: 'Macondo', cursive;
-    --font-mono: 'JetBrains Mono', monospace;
-    --font-heading: 'Macondo', cursive;
+    --font-sans: "Inter", sans-serif;
+    --font-heading: "Inter", sans-serif;
+    --font-mono: "JetBrains Mono", monospace;
     --color-sidebar-ring: var(--sidebar-ring);
     --color-sidebar-border: var(--sidebar-border);
     --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -51,29 +49,31 @@
 }
 
 :root {
-    --background: #FFFFFF;
+    --background: #F4F4F4;
     --foreground: #111827;
-    --card: #F9FAFB;
+    --card: #FFFFFF;
     --card-foreground: #111827;
     --popover: #FFFFFF;
     --popover-foreground: #111827;
-    --primary: #3B82F6;
+    --primary: #1F2937;
     --primary-foreground: #FFFFFF;
-    --secondary: #8B5CF6;
-    --secondary-foreground: #FFFFFF;
-    --muted: #F3F4F6;
+    --secondary: #E5E7EB;
+    --secondary-foreground: #1F2937;
+    --muted: #E5E7EB;
     --muted-foreground: #6B7280;
-    --accent: #F3F4F6;
+    --accent: #E5E7EB;
     --accent-foreground: #111827;
-    --destructive: #DC2626;
+    --destructive: #EF4444;
     --destructive-foreground: #FFFFFF;
-    --success: #16A34A;
+    --success: #22C55E;
     --success-foreground: #FFFFFF;
-    --warning: #D97706;
+    --warning: #F59E0B;
     --warning-foreground: #FFFFFF;
-    --border: #111827;
-    --input: #111827;
-    --ring: #3B82F6;
+    
+    /* Thin, elegant, low-contrast borders matching the target */
+    --border: #E5E7EB;
+    --input: #E5E7EB;
+    --ring: #9CA3AF;
 
     --chart-1: #3B82F6;
     --chart-2: #8B5CF6;
@@ -81,32 +81,33 @@
     --chart-4: #D97706;
     --chart-5: #DC2626;
 
-    --radius: 0rem;
+    /* Generous radius for cards representing the soft modern feel */
+    --radius: 1rem;
 
-    --sidebar: #F9FAFB;
+    --sidebar: #FFFFFF;
     --sidebar-foreground: #111827;
-    --sidebar-primary: #3B82F6;
+    --sidebar-primary: #1F2937;
     --sidebar-primary-foreground: #FFFFFF;
-    --sidebar-accent: #F3F4F6;
+    --sidebar-accent: #F9FAFB;
     --sidebar-accent-foreground: #111827;
-    --sidebar-border: #111827;
-    --sidebar-ring: #3B82F6;
+    --sidebar-border: #E5E7EB;
+    --sidebar-ring: #9CA3AF;
 }
 
 .dark {
-    --background: #111827;
+    --background: #1F2A38;
     --foreground: #F9FAFB;
-    --card: #1F2937;
+    --card: #2C3A4D;
     --card-foreground: #F9FAFB;
-    --popover: #1F2937;
+    --popover: #2C3A4D;
     --popover-foreground: #F9FAFB;
-    --primary: #3B82F6;
-    --primary-foreground: #FFFFFF;
-    --secondary: #8B5CF6;
-    --secondary-foreground: #FFFFFF;
-    --muted: #374151;
+    --primary: #F9FAFB;
+    --primary-foreground: #111827;
+    --secondary: #3B4B61;
+    --secondary-foreground: #F9FAFB;
+    --muted: #3B4B61;
     --muted-foreground: #9CA3AF;
-    --accent: #374151;
+    --accent: #3B4B61;
     --accent-foreground: #F9FAFB;
     --destructive: #EF4444;
     --destructive-foreground: #FFFFFF;
@@ -114,24 +115,25 @@
     --success-foreground: #FFFFFF;
     --warning: #F59E0B;
     --warning-foreground: #FFFFFF;
-    --border: #F9FAFB;
-    --input: #F9FAFB;
-    --ring: #3B82F6;
+    
+    --border: #3B4B61;
+    --input: #3B4B61;
+    --ring: #6B7280;
 
-    --chart-1: #3B82F6;
-    --chart-2: #8B5CF6;
-    --chart-3: #22C55E;
-    --chart-4: #F59E0B;
-    --chart-5: #EF4444;
+    --chart-1: #60A5FA;
+    --chart-2: #A78BFA;
+    --chart-3: #4ADE80;
+    --chart-4: #FBBF24;
+    --chart-5: #F87171;
 
-    --sidebar: #1F2937;
+    --sidebar: #1F2A38;
     --sidebar-foreground: #F9FAFB;
-    --sidebar-primary: #3B82F6;
-    --sidebar-primary-foreground: #FFFFFF;
-    --sidebar-accent: #374151;
+    --sidebar-primary: #F9FAFB;
+    --sidebar-primary-foreground: #111827;
+    --sidebar-accent: #3B4B61;
     --sidebar-accent-foreground: #F9FAFB;
-    --sidebar-border: #F9FAFB;
-    --sidebar-ring: #3B82F6;
+    --sidebar-border: #3B4B61;
+    --sidebar-ring: #6B7280;
 }
 
 @layer base {
@@ -139,9 +141,15 @@
     @apply border-border outline-ring/50;
     }
   body {
-    @apply bg-background text-foreground tracking-wide leading-relaxed;
+    /* Soft typography, elegant letter spacing */
+    @apply bg-background text-foreground font-sans tracking-tight antialiased;
     }
   html {
     @apply font-sans;
     }
+  
+  /* Additional overrides for massive bold neo-retro display if needed */
+  h1, h2, h3, h4, h5, h6 {
+    @apply tracking-tighter;
+  }
 }
