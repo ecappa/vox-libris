@@ -1,5 +1,5 @@
 import * as React from "react"
-import { motion, AnimatePresence } from "motion/react"
+import { motion } from "motion/react"
 import {
   ArrowLeftIcon,
   MessageSquareIcon,
@@ -456,65 +456,51 @@ export function RagflowChatView({
             </motion.div>
           )}
 
-          <AnimatePresence initial={false}>
-            {messages.map((msg) =>
-              msg.role === "user" ? (
-                <motion.div
-                  key={msg.id}
-                  layout
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  className="flex justify-end"
-                >
-                  <div className="max-w-[min(100%,85%)] rounded-2xl rounded-br-md bg-primary px-4 py-2.5 text-sm leading-relaxed text-primary-foreground shadow-sm">
-                    {msg.text}
-                  </div>
-                </motion.div>
-              ) : (
-                <motion.div
-                  key={msg.id}
-                  layout
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  className="flex justify-start"
-                >
-                  <div className="max-w-[min(100%,90%)] space-y-2">
-                    <div
-                      className={cn(
-                        "rounded-2xl rounded-bl-md border border-border bg-card px-4 py-3 text-sm leading-relaxed text-card-foreground shadow-sm",
-                        msg.streaming && "border-foreground/10"
-                      )}
-                    >
-                      {msg.text ? (
-                        <>
-                          <AnswerBody text={msg.text} />
-                          {msg.streaming && (
-                            <span className="ml-0.5 inline-block h-[1.1em] w-[2px] translate-y-[0.15em] animate-pulse bg-foreground/60" />
-                          )}
-                        </>
-                      ) : msg.streaming ? (
-                        <span className="text-muted-foreground">...</span>
-                      ) : null}
-                    </div>
-                    {msg.sources.length > 0 && !msg.streaming && (
-                      <details className="text-[11px] text-muted-foreground/80">
-                        <summary className="cursor-pointer select-none text-muted-foreground/70 hover:text-muted-foreground">
-                          Sources ({msg.sources.length})
-                        </summary>
-                        <ul className="mt-1.5 list-inside list-disc pl-0.5 opacity-90">
-                          {msg.sources.map((s) => (
-                            <li key={s} className="truncate font-mono text-[10px]">
-                              {s}
-                            </li>
-                          ))}
-                        </ul>
-                      </details>
+          {messages.map((msg) =>
+            msg.role === "user" ? (
+              <div key={msg.id} className="flex justify-end">
+                <div className="max-w-[min(100%,85%)] rounded-2xl rounded-br-md bg-primary px-4 py-2.5 text-sm leading-relaxed text-primary-foreground shadow-sm">
+                  {msg.text}
+                </div>
+              </div>
+            ) : (
+              <div key={msg.id} className="flex justify-start">
+                <div className="max-w-[min(100%,90%)] space-y-2">
+                  <div
+                    className={cn(
+                      "rounded-2xl rounded-bl-md border border-border bg-card px-4 py-3 text-sm leading-relaxed text-card-foreground shadow-sm",
+                      msg.streaming && "border-foreground/10"
                     )}
+                  >
+                    {msg.text ? (
+                      <>
+                        <AnswerBody text={msg.text} />
+                        {msg.streaming && (
+                          <span className="ml-0.5 inline-block h-[1.1em] w-[2px] translate-y-[0.15em] animate-pulse bg-foreground/60" />
+                        )}
+                      </>
+                    ) : msg.streaming ? (
+                      <span className="text-muted-foreground">...</span>
+                    ) : null}
                   </div>
-                </motion.div>
-              )
-            )}
-          </AnimatePresence>
+                  {msg.sources.length > 0 && !msg.streaming && (
+                    <details className="text-[11px] text-muted-foreground/80">
+                      <summary className="cursor-pointer select-none text-muted-foreground/70 hover:text-muted-foreground">
+                        Sources ({msg.sources.length})
+                      </summary>
+                      <ul className="mt-1.5 list-inside list-disc pl-0.5 opacity-90">
+                        {msg.sources.map((s) => (
+                          <li key={s} className="truncate font-mono text-[10px]">
+                            {s}
+                          </li>
+                        ))}
+                      </ul>
+                    </details>
+                  )}
+                </div>
+              </div>
+            )
+          )}
 
           {thinking && <ThinkingBubble />}
 
