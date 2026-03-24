@@ -326,6 +326,21 @@ export function RagflowChatView({
     [messages]
   )
 
+  const handleSourceClick = React.useCallback(
+    (msgId: string, docName: string) => {
+      const msg = messages.find(
+        (m) => m.role === "assistant" && m.id === msgId
+      )
+      if (!msg || msg.role !== "assistant") return
+      const chunks = msg.reference?.chunks
+      if (!chunks?.length) return
+      const idx = chunks.findIndex((c) => c.document_name === docName)
+      if (idx < 0) return
+      setActiveRef({ msgId, chunkIndex: idx })
+    },
+    [messages]
+  )
+
   const activeChunk: RagflowRefChunk | null = React.useMemo(() => {
     if (!activeRef) return null
     const msg = messages.find(
@@ -642,13 +657,15 @@ export function RagflowChatView({
                     {msg.sources.length > 0 && !msg.streaming && (
                       <div className="flex flex-wrap gap-1.5 px-1">
                         {msg.sources.map((s) => (
-                          <span
+                          <button
                             key={s}
-                            className="inline-flex items-center gap-1 rounded-md border border-border bg-muted/40 px-2 py-0.5 font-mono text-[10px] text-muted-foreground"
+                            type="button"
+                            onClick={() => handleSourceClick(msg.id, s)}
+                            className="inline-flex cursor-pointer items-center gap-1 rounded-md border border-border bg-muted/40 px-2 py-0.5 font-mono text-[10px] text-muted-foreground transition-colors hover:bg-foreground hover:text-background"
                           >
                             <BookOpenIcon className="size-2.5" />
                             <span className="max-w-[180px] truncate">{s}</span>
-                          </span>
+                          </button>
                         ))}
                       </div>
                     )}
