@@ -30,6 +30,7 @@ import {
 } from "@/lib/ragflow-chat"
 
 const SESSION_PREFIX = "voxlibris.ragflow.session.v1."
+const SHOW_DEBUG = new URLSearchParams(window.location.search).has("debug")
 
 function sessionStorageKey(chatId: string) {
   return `${SESSION_PREFIX}${chatId}`
@@ -140,8 +141,14 @@ export function RagflowChatView({
   const [thinking, setThinking] = React.useState(false)
   const [sending, setSending] = React.useState(false)
   const [error, setError] = React.useState<string | null>(null)
+  const [debugLines, setDebugLines] = React.useState<string[]>([])
   const scrollRef = React.useRef<HTMLDivElement>(null)
   const textareaRef = React.useRef<HTMLTextAreaElement>(null)
+
+  const dbg = React.useCallback((msg: string) => {
+    console.log(msg)
+    if (SHOW_DEBUG) setDebugLines((l) => [...l.slice(-30), msg])
+  }, [])
 
   React.useEffect(() => {
     setMessages([])
@@ -207,6 +214,9 @@ export function RagflowChatView({
       const extras = buildExtras()
 
       let acc = ""
+      let deltaCount = 0
+
+      dbg("[flow] starting chatCompletionStream")
 
       await chatCompletionStream(
         chatId,
@@ -214,8 +224,9 @@ export function RagflowChatView({
         text,
         {
           onDelta: (delta) => {
+            deltaCount++
             acc += delta
-            console.log(`[vox-ui] acc length: ${acc.length}`, acc.slice(-60))
+            dbg(`[delta #${deltaCount}] +${delta.length}ch => acc=${acc.length}ch | tail: "${acc.slice(-50)}"`)
             setThinking(false)
             setMessages((m) => {
               const has = m.some(
@@ -241,7 +252,7 @@ export function RagflowChatView({
             })
           },
           onFinal: (ref: RagflowReference | null) => {
-            console.log(`[vox-ui] final, acc length: ${acc.length}`)
+            dbg(`[final] ${deltaCount} deltas, acc=${acc.length}ch`)
             setThinking(false)
             const sources = uniqueSourceLabels(ref)
             setMessages((m) =>
@@ -517,6 +528,14 @@ export function RagflowChatView({
           )}
         </div>
       </div>
+
+      {SHOW_DEBUG && debugLines.length > 0 && (
+        <div className="shrink-0 max-h-40 overflow-y-auto border-t border-green-800 bg-black px-3 py-2 font-mono text-[10px] leading-tight text-green-400">
+          {debugLines.map((l, i) => (
+            <div key={i}>{l}</div>
+          ))}
+        </div>
+      )}
 
       <footer className="shrink-0 border-t border-border bg-card/80 px-4 py-3 backdrop-blur-sm sm:px-6">
         <div className="mx-auto flex max-w-3xl gap-2">

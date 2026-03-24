@@ -114,6 +114,10 @@ export function SectionCards({
                 </CardAction>
               </CardHeader>
               <CardFooter className="flex-col items-start gap-1.5 text-sm">
+                <p className="text-xs leading-snug text-muted-foreground">
+                  Fichiers sources (œuvre ou chapitre) enregistrés dans le jeu
+                  de données RAGFlow pour l’auteur affiché.
+                </p>
                 <div className="line-clamp-1 flex gap-2 font-medium">
                   Dataset « {dataset?.name ?? "..."} »
                 </div>
@@ -143,6 +147,10 @@ export function SectionCards({
                 </CardAction>
               </CardHeader>
               <CardFooter className="flex-col items-start gap-1.5 text-sm">
+                <p className="text-xs leading-snug text-muted-foreground">
+                  Avancement du traitement des documents : découpage, embeddings
+                  et mise à jour de l’index pour la recherche.
+                </p>
                 <div className="flex w-full items-center justify-between">
                   <div className="line-clamp-1 flex gap-2 font-medium">
                     {totalDocs > 0
@@ -183,6 +191,10 @@ export function SectionCards({
                 </CardAction>
               </CardHeader>
               <CardFooter className="flex-col items-start gap-1.5 text-sm">
+                <p className="text-xs leading-snug text-muted-foreground">
+                  Segments de texte issus du découpage : ce sont eux que le
+                  moteur interroge quand vous posez une question.
+                </p>
                 <div className="line-clamp-1 flex gap-2 font-medium">
                   {formatNumber(tokenCount)} tokens
                 </div>
@@ -206,6 +218,10 @@ export function SectionCards({
                 </CardAction>
               </CardHeader>
               <CardFooter className="flex-col items-start gap-1.5 text-sm">
+                <p className="text-xs leading-snug text-muted-foreground">
+                  Vue d’ensemble des trois corpus : chaque auteur a son propre
+                  jeu de données dans RAGFlow.
+                </p>
                 <div className="line-clamp-1 flex gap-2 font-medium">
                   {readyCount === totalAuthors
                     ? "Tous les auteurs sont prêts"

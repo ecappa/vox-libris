@@ -5,6 +5,8 @@ import { SectionCards } from "@/components/section-cards"
 import { ChartAreaInteractive } from "@/components/chart-area-interactive"
 import { DataTable } from "@/components/data-table"
 import { RagflowChatView } from "@/components/ragflow-chat-view"
+import { HelpView } from "@/components/help-view"
+import { SettingsPlaceholderView } from "@/components/settings-placeholder-view"
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar"
 import { useAppChatRoute } from "@/hooks/use-app-chat-route"
 import { useDatasets, useDocuments } from "@/hooks/use-ragflow"
@@ -12,7 +14,8 @@ import { AUTHORS, resolveTitle } from "@/lib/authors"
 import { FadeIn } from "@/components/fade-in"
 
 export function App() {
-  const { chatId, setChatId, isChatRoute } = useAppChatRoute()
+  const { chatId, setChatId, isChatRoute, shellView, setShellView } =
+    useAppChatRoute()
   const [selectedAuthorId, setSelectedAuthorId] = React.useState("victor-hugo")
   const [tableRevealEpoch, setTableRevealEpoch] = React.useState(0)
   const selectedAuthor =
@@ -56,8 +59,10 @@ export function App() {
   const sidebarProps = {
     selectedAuthorId,
     onSelectAuthor: setSelectedAuthorId,
-    onDashboard: () => setChatId(null),
+    onDashboard: () => setShellView("dashboard"),
     onOpenDialogue: (id: string) => setChatId(id),
+    onOpenReglages: () => setShellView("reglages"),
+    onOpenAide: () => setShellView("aide"),
   }
 
   if (isChatRoute && chatId) {
@@ -70,6 +75,38 @@ export function App() {
             onClose={() => setChatId(null)}
             onChangeChat={setChatId}
           />
+        </SidebarInset>
+      </SidebarProvider>
+    )
+  }
+
+  if (shellView === "reglages") {
+    return (
+      <SidebarProvider>
+        <AppSidebar {...sidebarProps} />
+        <SidebarInset>
+          <SiteHeader
+            pageTitle="Réglages"
+            selectedAuthorId={selectedAuthorId}
+            onSelectAuthor={setSelectedAuthorId}
+          />
+          <SettingsPlaceholderView />
+        </SidebarInset>
+      </SidebarProvider>
+    )
+  }
+
+  if (shellView === "aide") {
+    return (
+      <SidebarProvider>
+        <AppSidebar {...sidebarProps} />
+        <SidebarInset>
+          <SiteHeader
+            pageTitle="Aide"
+            selectedAuthorId={selectedAuthorId}
+            onSelectAuthor={setSelectedAuthorId}
+          />
+          <HelpView />
         </SidebarInset>
       </SidebarProvider>
     )

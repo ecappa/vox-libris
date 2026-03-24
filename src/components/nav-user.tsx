@@ -33,12 +33,14 @@ function getInitials(name: string) {
 
 export function NavUser({
   user,
+  onOpenSettings,
 }: {
   user: {
     name: string
     email: string
     avatar: string
   }
+  onOpenSettings?: () => void
 }) {
   const { isMobile } = useSidebar()
   const initials = getInitials(user.name)
@@ -99,7 +101,10 @@ export function NavUser({
                 <CircleUserRoundIcon />
                 Compte
               </DropdownMenuItem>
-              <DropdownMenuItem>
+              <DropdownMenuItem
+                disabled={!onOpenSettings}
+                onClick={() => onOpenSettings?.()}
+              >
                 <Settings2Icon />
                 Réglages
               </DropdownMenuItem>

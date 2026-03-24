@@ -19,6 +19,8 @@ export function NavMain({
     ragflowChatId?: string
     /** Entrée non branchée (ex. mode à venir) */
     comingSoon?: boolean
+    /** Ligne d’aide sous le titre (menu étendu) */
+    subtitle?: string
   }[]
   onDashboard: () => void
   onOpenDialogue: (chatId: string) => void
@@ -58,7 +60,14 @@ export function NavMain({
                 }}
               >
                 {item.icon}
-                <span>{item.title}</span>
+                <span className="flex min-w-0 flex-col items-start gap-0.5">
+                  <span className="leading-none">{item.title}</span>
+                  {item.subtitle ? (
+                    <span className="text-[11px] font-normal leading-snug text-muted-foreground">
+                      {item.subtitle}
+                    </span>
+                  ) : null}
+                </span>
               </SidebarMenuButton>
             </SidebarMenuItem>
           ))}

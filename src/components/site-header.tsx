@@ -9,11 +9,14 @@ const EASE_OUT = [0.22, 1, 0.36, 1] as const
 interface SiteHeaderProps {
   selectedAuthorId: string
   onSelectAuthor: (id: string) => void
+  /** Titre de la zone principale (hors chat) */
+  pageTitle?: string
 }
 
 export function SiteHeader({
   selectedAuthorId,
   onSelectAuthor,
+  pageTitle = "Tableau de bord",
 }: SiteHeaderProps) {
   return (
     <motion.header
@@ -34,38 +37,42 @@ export function SiteHeader({
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.35, ease: EASE_OUT, delay: 0.05 }}
         >
-          Tableau de bord
+          {pageTitle}
         </motion.h1>
-        <div className="ml-auto flex items-center gap-1">
-          {AUTHORS.map((author, i) => (
-            <span key={author.id} className="flex items-center">
-              {i > 0 && (
-                <span className="mx-1 text-xs text-muted-foreground/50">·</span>
-              )}
-              <motion.button
-                type="button"
-                onClick={() => onSelectAuthor(author.id)}
-                layout
-                className={cn(
-                  "rounded-md px-2 py-1 text-xs font-medium transition-colors",
-                  author.id === selectedAuthorId
-                    ? "bg-primary text-primary-foreground"
-                    : "text-muted-foreground hover:bg-muted hover:text-foreground"
+        {pageTitle === "Tableau de bord" ? (
+          <div className="ml-auto flex items-center gap-1">
+            {AUTHORS.map((author, i) => (
+              <span key={author.id} className="flex items-center">
+                {i > 0 && (
+                  <span className="mx-1 text-xs text-muted-foreground/50">
+                    ·
+                  </span>
                 )}
-                initial={{ opacity: 0, y: 4 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{
-                  duration: 0.3,
-                  ease: EASE_OUT,
-                  delay: 0.08 + i * 0.05,
-                }}
-                whileTap={{ scale: 0.97 }}
-              >
-                {author.name.split(" ").pop()}
-              </motion.button>
-            </span>
-          ))}
-        </div>
+                <motion.button
+                  type="button"
+                  onClick={() => onSelectAuthor(author.id)}
+                  layout
+                  className={cn(
+                    "rounded-md px-2 py-1 text-xs font-medium transition-colors",
+                    author.id === selectedAuthorId
+                      ? "bg-primary text-primary-foreground"
+                      : "text-muted-foreground hover:bg-muted hover:text-foreground"
+                  )}
+                  initial={{ opacity: 0, y: 4 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{
+                    duration: 0.3,
+                    ease: EASE_OUT,
+                    delay: 0.08 + i * 0.05,
+                  }}
+                  whileTap={{ scale: 0.97 }}
+                >
+                  {author.name.split(" ").pop()}
+                </motion.button>
+              </span>
+            ))}
+          </div>
+        ) : null}
       </div>
     </motion.header>
   )

@@ -28,11 +28,6 @@ import {
 } from "lucide-react"
 import { useVoxPublicConfig } from "@/components/vox-config-provider"
 
-const navSecondary = [
-  { title: "Réglages", url: "#", icon: <Settings2Icon /> },
-  { title: "Aide", url: "#", icon: <CircleHelpIcon /> },
-]
-
 const user = {
   name: "Lecteur",
   email: "lecteur@vox-libris.fr",
@@ -50,6 +45,8 @@ interface AppSidebarProps extends React.ComponentProps<typeof Sidebar> {
   onSelectAuthor: (id: string) => void
   onDashboard: () => void
   onOpenDialogue: (chatId: string) => void
+  onOpenReglages: () => void
+  onOpenAide: () => void
 }
 
 export function AppSidebar({
@@ -57,11 +54,29 @@ export function AppSidebar({
   onSelectAuthor,
   onDashboard,
   onOpenDialogue,
+  onOpenReglages,
+  onOpenAide,
   ...props
 }: AppSidebarProps) {
   const { assistants } = useVoxPublicConfig()
   const erudit = assistants.find((a) => /érudit/i.test(a.label))
   const jeune = assistants.find((a) => /jeune/i.test(a.label))
+
+  const navSecondary = React.useMemo(
+    () => [
+      {
+        title: "Réglages",
+        icon: <Settings2Icon />,
+        onSelect: onOpenReglages,
+      },
+      {
+        title: "Aide",
+        icon: <CircleHelpIcon />,
+        onSelect: onOpenAide,
+      },
+    ],
+    [onOpenReglages, onOpenAide]
+  )
 
   const navMain = [
     {
@@ -82,8 +97,20 @@ export function AppSidebar({
       icon: <SparklesIcon />,
       ragflowChatId: jeune?.id,
     },
-    { title: "Corpus", url: "#", icon: <LibraryIcon /> },
-    { title: "Recherche", url: "#", icon: <SearchIcon /> },
+    {
+      title: "Corpus",
+      url: "#",
+      icon: <LibraryIcon />,
+      comingSoon: true as const,
+      subtitle: "Parcourir œuvres et fichiers indexés (bientôt)",
+    },
+    {
+      title: "Recherche",
+      url: "#",
+      icon: <SearchIcon />,
+      comingSoon: true as const,
+      subtitle: "Requête ciblée dans l’index, hors dialogue (bientôt)",
+    },
   ]
 
   return (
@@ -92,18 +119,17 @@ export function AppSidebar({
         <SidebarMenu>
           <SidebarMenuItem>
             <SidebarMenuButton
-              asChild
+              type="button"
               className="data-[slot=sidebar-menu-button]:p-1.5!"
+              onClick={onDashboard}
             >
-              <a href="#" className="flex items-center gap-2">
-                <MessageSquareTextIcon className="size-5! text-primary" />
-                <span
-                  className="text-lg"
-                  style={{ fontFamily: "var(--font-heading)" }}
-                >
-                  Vox Libris
-                </span>
-              </a>
+              <MessageSquareTextIcon className="size-5! text-primary" />
+              <span
+                className="text-lg"
+                style={{ fontFamily: "var(--font-heading)" }}
+              >
+                Vox Libris
+              </span>
             </SidebarMenuButton>
           </SidebarMenuItem>
         </SidebarMenu>
@@ -122,7 +148,7 @@ export function AppSidebar({
         <NavSecondary items={navSecondary} className="mt-auto" />
       </SidebarContent>
       <SidebarFooter>
-        <NavUser user={user} />
+        <NavUser user={user} onOpenSettings={onOpenReglages} />
       </SidebarFooter>
     </Sidebar>
   )

@@ -178,7 +178,7 @@ const columns: ColumnDef<z.infer<typeof schema>>[] = [
   },
   {
     accessorKey: "limit",
-    header: () => <div className="w-full text-right">Chapitres</div>,
+    header: () => <div className="w-full text-right">Chunks</div>,
     cell: ({ row }) => (
       <div className="text-right text-muted-foreground tabular-nums">
         {row.original.limit === "0" ? "—" : row.original.limit}
