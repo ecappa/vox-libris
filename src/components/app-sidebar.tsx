@@ -47,6 +47,7 @@ interface AppSidebarProps extends React.ComponentProps<typeof Sidebar> {
   onOpenDialogue: (chatId: string) => void
   onOpenReglages: () => void
   onOpenAide: () => void
+  onOpenRecherche: () => void
 }
 
 export function AppSidebar({
@@ -56,6 +57,7 @@ export function AppSidebar({
   onOpenDialogue,
   onOpenReglages,
   onOpenAide,
+  onOpenRecherche,
   ...props
 }: AppSidebarProps) {
   const { assistants } = useVoxPublicConfig()
@@ -108,8 +110,8 @@ export function AppSidebar({
       title: "Recherche",
       url: "#",
       icon: <SearchIcon />,
-      comingSoon: true as const,
-      subtitle: "Requête ciblée dans l’index, hors dialogue (bientôt)",
+      recherche: true as const,
+      subtitle: "Passages du corpus (hybride + surlignage)",
     },
   ]
 
@@ -139,6 +141,7 @@ export function AppSidebar({
           items={navMain}
           onDashboard={onDashboard}
           onOpenDialogue={onOpenDialogue}
+          onOpenRecherche={onOpenRecherche}
         />
         <NavDocuments
           items={authorItems}

@@ -80,13 +80,32 @@ export default defineHandler(async (req, res, trace) => {
     }, trace)
   }
 
-  const bodyStr =
+  let bodyStr =
     req.body == null
       ? ""
       : typeof req.body === "string"
         ? req.body
         : JSON.stringify(req.body)
   trace.log(`body: ${bodyStr.length} bytes`)
+
+  const rerankId = process.env.RAGFLOW_RERANK_ID?.trim()
+  if (
+    rerankId &&
+    method === "POST" &&
+    /^chats\/[^/]+\/completions$/.test(pathOnly) &&
+    bodyStr.length > 0
+  ) {
+    try {
+      const obj = JSON.parse(bodyStr) as Record<string, unknown>
+      if (obj.rerank_id === undefined || obj.rerank_id === null) {
+        obj.rerank_id = rerankId
+        bodyStr = JSON.stringify(obj)
+        trace.log("injected rerank_id for completions")
+      }
+    } catch {
+      /* keep original body */
+    }
+  }
 
   const streamRequest =
     method === "POST" &&

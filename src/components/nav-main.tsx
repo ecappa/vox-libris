@@ -11,6 +11,7 @@ export function NavMain({
   items,
   onDashboard,
   onOpenDialogue,
+  onOpenRecherche,
 }: {
   items: {
     title: string
@@ -19,11 +20,14 @@ export function NavMain({
     ragflowChatId?: string
     /** Entrée non branchée (ex. mode à venir) */
     comingSoon?: boolean
+    /** Ouvre la vue recherche corpus (sans chat RAGFlow) */
+    recherche?: boolean
     /** Ligne d’aide sous le titre (menu étendu) */
     subtitle?: string
   }[]
   onDashboard: () => void
   onOpenDialogue: (chatId: string) => void
+  onOpenRecherche?: () => void
 }) {
   return (
     <SidebarGroup>
@@ -54,6 +58,10 @@ export function NavMain({
                       : undefined
                 }
                 onClick={() => {
+                  if (item.recherche && onOpenRecherche && !item.comingSoon) {
+                    onOpenRecherche()
+                    return
+                  }
                   if (item.ragflowChatId && !item.comingSoon) {
                     onOpenDialogue(item.ragflowChatId)
                   }

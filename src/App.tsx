@@ -4,6 +4,7 @@ import { SiteHeader } from "@/components/site-header"
 import { SectionCards } from "@/components/section-cards"
 import { ChartAreaInteractive } from "@/components/chart-area-interactive"
 import { DataTable } from "@/components/data-table"
+import { AdvancedSearchView } from "@/components/advanced-search-view"
 import { RagflowChatView } from "@/components/ragflow-chat-view"
 import { HelpView } from "@/components/help-view"
 import { SettingsPlaceholderView } from "@/components/settings-placeholder-view"
@@ -14,8 +15,14 @@ import { AUTHORS, resolveTitle } from "@/lib/authors"
 import { FadeIn } from "@/components/fade-in"
 
 export function App() {
-  const { chatId, setChatId, isChatRoute, shellView, setShellView } =
-    useAppChatRoute()
+  const {
+    chatId,
+    setChatId,
+    isChatRoute,
+    shellView,
+    setShellView,
+    openRecherche,
+  } = useAppChatRoute()
   const [selectedAuthorId, setSelectedAuthorId] = React.useState("victor-hugo")
   const [tableRevealEpoch, setTableRevealEpoch] = React.useState(0)
   const selectedAuthor =
@@ -63,6 +70,7 @@ export function App() {
     onOpenDialogue: (id: string) => setChatId(id),
     onOpenReglages: () => setShellView("reglages"),
     onOpenAide: () => setShellView("aide"),
+    onOpenRecherche: openRecherche,
   }
 
   if (isChatRoute && chatId) {
@@ -72,6 +80,7 @@ export function App() {
         <SidebarInset className="flex min-h-0 flex-1 flex-col overflow-hidden">
           <RagflowChatView
             chatId={chatId}
+            authorId={selectedAuthorId}
             onClose={() => setChatId(null)}
             onChangeChat={setChatId}
           />
@@ -107,6 +116,22 @@ export function App() {
             onSelectAuthor={setSelectedAuthorId}
           />
           <HelpView />
+        </SidebarInset>
+      </SidebarProvider>
+    )
+  }
+
+  if (shellView === "recherche") {
+    return (
+      <SidebarProvider>
+        <AppSidebar {...sidebarProps} />
+        <SidebarInset>
+          <SiteHeader
+            pageTitle="Recherche"
+            selectedAuthorId={selectedAuthorId}
+            onSelectAuthor={setSelectedAuthorId}
+          />
+          <AdvancedSearchView initialAuthorId={selectedAuthorId} />
         </SidebarInset>
       </SidebarProvider>
     )

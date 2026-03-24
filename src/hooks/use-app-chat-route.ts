@@ -1,6 +1,6 @@
 import * as React from "react"
 
-export type ShellView = "reglages" | "aide"
+export type ShellView = "reglages" | "aide" | "recherche"
 
 function parseShellFromSearch(search: string): {
   chatId: string
@@ -12,6 +12,7 @@ function parseShellFromSearch(search: string): {
   const v = (q.get("view") ?? "").trim().toLowerCase()
   if (v === "reglages") return { chatId: "", shellView: "reglages" }
   if (v === "aide") return { chatId: "", shellView: "aide" }
+  if (v === "recherche") return { chatId: "", shellView: "recherche" }
   return { chatId: "", shellView: null }
 }
 
@@ -44,6 +45,10 @@ export function useAppChatRoute() {
     []
   )
 
+  const openRecherche = React.useCallback(() => {
+    setShellView("recherche")
+  }, [setShellView])
+
   React.useEffect(() => {
     const onPop = () =>
       setState(parseShellFromSearch(window.location.search))
@@ -57,5 +62,6 @@ export function useAppChatRoute() {
     isChatRoute: Boolean(state.chatId),
     shellView: state.shellView,
     setShellView,
+    openRecherche,
   }
 }

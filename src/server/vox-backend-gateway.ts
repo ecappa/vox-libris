@@ -15,6 +15,10 @@ import {
   verifySessionToken,
 } from "../../api/_lib/ragflow-gateway"
 import { RequestTrace } from "../../api/_lib/trace"
+import {
+  buildRagflowRetrievalPayload,
+  RAGFLOW_API_V1_BASE,
+} from "../../api/_lib/vox-retrieval-logic"
 
 const RAGFLOW_BASE = "https://ragflow.cappasoft.cloud/api/v1"
 const BODY_LIMIT = 12 * 1024 * 1024
@@ -234,6 +238,98 @@ export function voxBackendGateway(): Plugin {
           return sendJsonDev(res, 200, { assistants }, trace)
         }
 
+        if (basePath === "/api/vox/retrieval" && req.method === "POST") {
+          const trace = new RequestTrace("POST /api/vox/retrieval")
+
+          if (!apiKey) {
+            trace.log("RAGFLOW_ADMIN_API_KEY: MISSING")
+            return sendJsonDev(res, 500, {
+              error: "RAGFLOW_ADMIN_API_KEY not configured",
+            }, trace)
+          }
+          trace.log("RAGFLOW_ADMIN_API_KEY: OK")
+
+          if (!gatewaySecret) {
+            trace.log("gateway secret: MISSING")
+            return sendJsonDev(res, 500, {
+              error: "Gateway misconfigured",
+              detail:
+                "VOX_GATEWAY_SECRET or RAGFLOW_ADMIN_API_KEY required for session",
+            }, trace)
+          }
+          trace.log("gateway secret: OK")
+
+          const cookieTokR = parseCookieHeader(
+            req.headers.cookie,
+            SESSION_COOKIE_NAME
+          )
+          const sessionOk = verifySessionToken(cookieTokR, gatewaySecret)
+          trace.log(`session: ${sessionOk ? "valid" : "INVALID"}`)
+          if (!sessionOk) {
+            return sendJsonDev(res, 401, {
+              error: "Session required",
+              hint: "Call GET /api/session with credentials: 'include' first",
+            }, trace)
+          }
+
+          let rawBody: Uint8Array
+          try {
+            rawBody = new Uint8Array(await readRequestBody(req))
+            trace.log(`body: ${rawBody.length} bytes`)
+          } catch (err) {
+            trace.log(`body read error: ${err}`)
+            return sendJsonDev(res, 413, {
+              error: "Request body too large",
+              detail: String(err),
+            }, trace)
+          }
+
+          let parsed: unknown
+          try {
+            parsed = JSON.parse(
+              Buffer.from(rawBody).toString("utf-8")
+            ) as unknown
+          } catch {
+            return sendJsonDev(res, 400, { error: "Invalid JSON body" }, trace)
+          }
+
+          const mergedEnv = { ...process.env } as NodeJS.ProcessEnv
+          const rr = loadEnvLine("RAGFLOW_RERANK_ID")
+          if (rr) mergedEnv.RAGFLOW_RERANK_ID = rr
+
+          const built = buildRagflowRetrievalPayload(parsed, mergedEnv)
+          if (!built.ok) {
+            return sendJsonDev(res, 400, { error: built.error }, trace)
+          }
+
+          trace.log("forwarding retrieval to RAGFlow")
+          const upstream = await fetch(`${RAGFLOW_API_V1_BASE}/retrieval`, {
+            method: "POST",
+            headers: {
+              Authorization: `Bearer ${apiKey}`,
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(built.body),
+          })
+          const text = await upstream.text()
+          trace.log(`upstream: ${upstream.status}, body ${text.length} chars`)
+          const ct = upstream.headers.get("content-type") || ""
+          if (ct.includes("application/json")) {
+            try {
+              const data = JSON.parse(text) as unknown
+              return sendJsonDev(res, upstream.status, data, trace)
+            } catch {
+              trace.log("upstream JSON parse failed")
+            }
+          }
+          return sendJsonDev(
+            res,
+            upstream.status,
+            { error: "RAGFlow retrieval", raw: text.slice(0, 2000) },
+            trace
+          )
+        }
+
         if (!req.url?.startsWith("/api/ragflow/")) return next()
 
         const trace = new RequestTrace(
@@ -301,6 +397,29 @@ export function voxBackendGateway(): Plugin {
               error: "RAGFlow proxy",
               detail: String(err),
             }, trace)
+          }
+        }
+
+        const rerankId =
+          loadEnvLine("RAGFLOW_RERANK_ID") ||
+          process.env.RAGFLOW_RERANK_ID?.trim() ||
+          ""
+        if (
+          rerankId &&
+          method === "POST" &&
+          /^chats\/[^/]+\/completions$/.test(pathOnly) &&
+          body.length > 0
+        ) {
+          try {
+            const s = Buffer.from(body).toString("utf-8")
+            const obj = JSON.parse(s) as Record<string, unknown>
+            if (obj.rerank_id === undefined || obj.rerank_id === null) {
+              obj.rerank_id = rerankId
+              body = new Uint8Array(Buffer.from(JSON.stringify(obj), "utf-8"))
+              trace.log("injected rerank_id for completions")
+            }
+          } catch {
+            /* keep body */
           }
         }
 

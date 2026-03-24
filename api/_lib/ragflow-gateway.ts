@@ -102,6 +102,7 @@ export function isAllowedRagflowProxy(
   if (m === "GET" && /^datasets\/[^/]+\/documents$/.test(path)) return true
   if (m === "POST" && /^chats\/[^/]+\/sessions$/.test(path)) return true
   if (m === "POST" && /^chats\/[^/]+\/completions$/.test(path)) return true
+  if (m === "POST" && path === "retrieval") return true
 
   return false
 }

@@ -4,6 +4,7 @@ export interface RagflowRefChunk {
   id?: string
   document_id?: string
   document_name?: string
+  document_keyword?: string
   content?: string
   similarity?: number
 }
@@ -196,13 +197,18 @@ export async function chatCompletionStream(
   }
 }
 
+export function chunkDocumentLabel(c: RagflowRefChunk): string | undefined {
+  const n = c.document_name ?? c.document_keyword
+  return typeof n === "string" && n.trim() ? n.trim() : undefined
+}
+
 export function uniqueSourceLabels(ref: RagflowReference | null): string[] {
   if (!ref?.chunks?.length) {
     const aggs = ref?.doc_aggs ?? []
     return [...new Set(aggs.map((a) => a.doc_name).filter(Boolean))] as string[]
   }
   const names = ref.chunks
-    .map((c) => c.document_name)
+    .map((c) => chunkDocumentLabel(c))
     .filter((n): n is string => Boolean(n))
   return [...new Set(names)]
 }

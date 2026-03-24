@@ -24,8 +24,11 @@ import {
 import { useVoxPublicConfig } from "@/components/vox-config-provider"
 import { cn } from "@/lib/utils"
 import { resolvePresetForChatId } from "@/lib/vox-public-config"
+import { corpusWorkOptionsForAuthor } from "@/lib/corpus-works"
+import { getAuthorById } from "@/lib/authors"
 import {
   chatCompletionStream,
+  chunkDocumentLabel,
   createChatSession,
   uniqueSourceLabels,
   type CompletionExtras,
@@ -260,20 +263,23 @@ function ThinkingBubble() {
 
 interface RagflowChatViewProps {
   chatId: string
+  /** Auteur choisi sur le tableau de bord : liste d’œuvres + filtre RAGFlow. */
+  authorId: string
   onClose: () => void
   onChangeChat: (id: string) => void
 }
 
 export function RagflowChatView({
   chatId,
+  authorId,
   onClose,
   onChangeChat,
 }: RagflowChatViewProps) {
   const { assistants } = useVoxPublicConfig()
   const [messages, setMessages] = React.useState<ChatMessage[]>([])
   const [input, setInput] = React.useState("")
-  const [slugFilter, setSlugFilter] = React.useState("")
-  const [oeuvreHint, setOeuvreHint] = React.useState("")
+  /** Vide = tout le jeu de données ; sinon slug_oeuvre RAGFlow. */
+  const [selectedWorkSlug, setSelectedWorkSlug] = React.useState("")
   const [customChatId, setCustomChatId] = React.useState("")
   const [thinking, setThinking] = React.useState(false)
   const [sending, setSending] = React.useState(false)
@@ -299,6 +305,16 @@ export function RagflowChatView({
   }, [chatId])
 
   React.useEffect(() => {
+    setSelectedWorkSlug("")
+  }, [chatId, authorId])
+
+  const workOptions = React.useMemo(
+    () => corpusWorkOptionsForAuthor(authorId),
+    [authorId]
+  )
+  const authorName = getAuthorById(authorId)?.name ?? "Auteur"
+
+  React.useEffect(() => {
     const el = scrollRef.current
     if (!el) return
     el.scrollTo({ top: el.scrollHeight, behavior: "smooth" })
@@ -308,23 +324,22 @@ export function RagflowChatView({
 
   const buildExtras = React.useCallback((): CompletionExtras => {
     const out: CompletionExtras = {}
-    const hint = oeuvreHint.trim()
-    if (hint) out.oeuvre = hint
-    const slug = slugFilter.trim()
-    if (slug) {
-      out.metadata_condition = {
-        logic: "and",
-        conditions: [
-          {
-            name: "slug_oeuvre",
-            comparison_operator: "=",
-            value: slug,
-          },
-        ],
-      }
+    const slug = selectedWorkSlug.trim()
+    if (!slug) return out
+    const label = workOptions.find((w) => w.slug === slug)?.label
+    if (label) out.oeuvre = label
+    out.metadata_condition = {
+      logic: "and",
+      conditions: [
+        {
+          name: "slug_oeuvre",
+          comparison_operator: "=",
+          value: slug,
+        },
+      ],
     }
     return out
-  }, [oeuvreHint, slugFilter])
+  }, [selectedWorkSlug, workOptions])
 
   const ensureSession = React.useCallback(async () => {
     const key = sessionStorageKey(chatId)
@@ -346,9 +361,9 @@ export function RagflowChatView({
       const idx = refId - 1
       if (idx < 0 || idx >= chunks.length) return
       const chunk = chunks[idx]
-      const docName = chunk.document_name ?? `Source ${refId}`
+      const docName = chunkDocumentLabel(chunk) ?? `Source ${refId}`
       const docChunks = chunks.filter(
-        (c) => c.document_name === chunk.document_name
+        (c) => chunkDocumentLabel(c) === chunkDocumentLabel(chunk)
       )
       const highlightIndex = docChunks.indexOf(chunk)
       setPanelData({ title: docName, chunks: docChunks, highlightIndex })
@@ -364,7 +379,7 @@ export function RagflowChatView({
       if (!msg || msg.role !== "assistant") return
       const chunks = msg.reference?.chunks
       if (!chunks?.length) return
-      const docChunks = chunks.filter((c) => c.document_name === docName)
+      const docChunks = chunks.filter((c) => chunkDocumentLabel(c) === docName)
       if (!docChunks.length) return
       setPanelData({ title: docName, chunks: docChunks })
     },
@@ -565,6 +580,48 @@ export function RagflowChatView({
         </div>
       </header>
 
+      <div className="border-b border-border bg-muted/20 px-4 py-3 sm:px-6">
+        <div className="mx-auto flex max-w-3xl flex-col gap-2 sm:flex-row sm:items-end sm:gap-4">
+          <div className="min-w-0 flex-1 space-y-1.5">
+            <Label
+              htmlFor="corpus-work"
+              className="text-xs font-medium text-foreground"
+            >
+              Périmètre du corpus ({authorName})
+            </Label>
+            <p className="text-[11px] leading-snug text-muted-foreground">
+              Avec une œuvre choisie, chaque envoi ajoute un filtre{" "}
+              <span className="font-mono">slug_oeuvre</span> (métadonnées
+              RAGFlow). Dans la barre latérale, prends l&apos;auteur dont le
+              dataset correspond à cet assistant.
+            </p>
+            <Select
+              value={selectedWorkSlug || "__all__"}
+              onValueChange={(v) =>
+                setSelectedWorkSlug(v === "__all__" ? "" : v)
+              }
+            >
+              <SelectTrigger
+                id="corpus-work"
+                className="h-10 w-full rounded-xl border-border bg-card text-left text-sm"
+              >
+                <SelectValue placeholder="Tout le corpus" />
+              </SelectTrigger>
+              <SelectContent className="max-h-[min(70vh,420px)] rounded-xl">
+                <SelectItem value="__all__" className="rounded-lg">
+                  Tout le corpus ({authorName})
+                </SelectItem>
+                {workOptions.map((w) => (
+                  <SelectItem key={w.slug} value={w.slug} className="rounded-lg">
+                    {w.label}
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          </div>
+        </div>
+      </div>
+
       <div className="border-b border-border/80 bg-muted/30 px-4 py-2.5 sm:px-6">
         <details className="group text-sm">
           <summary className="flex cursor-pointer list-none items-center gap-1 text-muted-foreground transition-colors hover:text-foreground">
@@ -572,30 +629,6 @@ export function RagflowChatView({
             Options avancées
           </summary>
           <div className="mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            <div className="space-y-1.5">
-              <Label htmlFor="slug-filter" className="text-xs">
-                Filtre slug œuvre
-              </Label>
-              <Input
-                id="slug-filter"
-                className="h-9 rounded-xl font-mono text-xs"
-                placeholder="ex. les-miserables"
-                value={slugFilter}
-                onChange={(e) => setSlugFilter(e.target.value)}
-              />
-            </div>
-            <div className="space-y-1.5">
-              <Label htmlFor="oeuvre-hint" className="text-xs">
-                Indice titre (prompt)
-              </Label>
-              <Input
-                id="oeuvre-hint"
-                className="h-9 rounded-xl text-xs"
-                placeholder="ex. Les Misérables"
-                value={oeuvreHint}
-                onChange={(e) => setOeuvreHint(e.target.value)}
-              />
-            </div>
             <div className="space-y-1.5 sm:col-span-2 lg:col-span-1">
               <Label htmlFor="custom-chat" className="text-xs">
                 ID assistant RAGFlow
