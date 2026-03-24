@@ -7,9 +7,11 @@ import { DataTable } from "@/components/data-table"
 import { SidebarInset, SidebarProvider } from "@/components/ui/sidebar"
 import { useDatasets, useDocuments } from "@/hooks/use-ragflow"
 import { AUTHORS, resolveTitle } from "@/lib/authors"
+import { FadeIn } from "@/components/fade-in"
 
 export function App() {
   const [selectedAuthorId, setSelectedAuthorId] = React.useState("victor-hugo")
+  const [tableRevealEpoch, setTableRevealEpoch] = React.useState(0)
   const selectedAuthor = AUTHORS.find((a) => a.id === selectedAuthorId) ?? AUTHORS[0]
 
   const { datasets, loading: datasetsLoading, refresh: refreshDatasets } = useDatasets()
@@ -69,6 +71,7 @@ export function App() {
         <div className="flex flex-1 flex-col gap-8 p-8">
           <SectionCards
             dataset={activeDataset ?? null}
+            authorId={selectedAuthorId}
             authorName={selectedAuthor.name}
             statusCounts={statusCounts}
             totalDocs={totalDocs}
@@ -77,15 +80,28 @@ export function App() {
             loading={datasetsLoading || docsLoading}
             onRefresh={handleRefresh}
           />
-          <div className="px-4 lg:px-6">
-            <DataTable data={tableData} loading={docsLoading} />
-          </div>
-          <div className="px-4 lg:px-6">
-            <ChartAreaInteractive
-              dataset={activeDataset ?? null}
-              loading={datasetsLoading}
-            />
-          </div>
+          <FadeIn
+            delay={450}
+            duration={600}
+            triggerKey={selectedAuthorId}
+            onEntered={() => setTableRevealEpoch((e) => e + 1)}
+          >
+            <div className="px-4 lg:px-6">
+              <DataTable
+                data={tableData}
+                loading={docsLoading}
+                rowRevealEpoch={tableRevealEpoch}
+              />
+            </div>
+          </FadeIn>
+          <FadeIn delay={600} duration={600} triggerKey={selectedAuthorId}>
+            <div className="px-4 lg:px-6">
+              <ChartAreaInteractive
+                dataset={activeDataset ?? null}
+                loading={datasetsLoading}
+              />
+            </div>
+          </FadeIn>
         </div>
       </SidebarInset>
     </SidebarProvider>

@@ -192,7 +192,13 @@ const columns: ColumnDef<z.infer<typeof schema>>[] = [
   },
 ]
 
-function DraggableRow({ row }: { row: Row<z.infer<typeof schema>> }) {
+function DraggableRow({
+  row,
+  index,
+}: {
+  row: Row<z.infer<typeof schema>>
+  index: number
+}) {
   const { transform, transition, setNodeRef, isDragging } = useSortable({
     id: row.original.id,
   })
@@ -206,6 +212,9 @@ function DraggableRow({ row }: { row: Row<z.infer<typeof schema>> }) {
       style={{
         transform: CSS.Transform.toString(transform),
         transition: transition,
+        animation: isDragging
+          ? "none"
+          : `row-reveal 0.5s cubic-bezier(0.16, 1, 0.3, 1) ${index * 40}ms both`,
       }}
     >
       {row.getVisibleCells().map((cell) => (
@@ -220,15 +229,30 @@ function DraggableRow({ row }: { row: Row<z.infer<typeof schema>> }) {
 export function DataTable({
   data: initialData,
   loading: _loading,
+  rowRevealEpoch = 0,
 }: {
   data: z.infer<typeof schema>[]
   loading?: boolean
+  /** Increment when the parent FadeIn has finished entering so row CSS animations run while visible */
+  rowRevealEpoch?: number
 }) {
   const [data, setData] = React.useState(() => initialData)
+  const [generation, setGeneration] = React.useState(0)
+
+  const dataSignature = React.useMemo(() => {
+    if (initialData.length === 0) return "empty"
+    const first = initialData[0]!
+    const last = initialData[initialData.length - 1]!
+    return `${initialData.length}:${first.id}:${last.id}`
+  }, [initialData])
 
   React.useEffect(() => {
     setData(initialData)
   }, [initialData])
+
+  React.useEffect(() => {
+    setGeneration((g) => g + 1)
+  }, [rowRevealEpoch, dataSignature])
   const [rowSelection, setRowSelection] = React.useState({})
   const [columnVisibility, setColumnVisibility] =
     React.useState<VisibilityState>({})
@@ -418,8 +442,12 @@ export function DataTable({
                     items={dataIds}
                     strategy={verticalListSortingStrategy}
                   >
-                    {table.getRowModel().rows.map((row) => (
-                      <DraggableRow key={row.id} row={row} />
+                    {table.getRowModel().rows.map((row, index) => (
+                      <DraggableRow
+                        key={`${generation}-${row.id}`}
+                        row={row}
+                        index={index}
+                      />
                     ))}
                   </SortableContext>
                 ) : (
