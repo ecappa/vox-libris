@@ -1,5 +1,5 @@
 import * as React from "react"
-import { motion } from "motion/react"
+import { motion, AnimatePresence } from "motion/react"
 import Markdown from "react-markdown"
 import {
   ArrowLeftIcon,
@@ -142,7 +142,7 @@ function ReferencePanel({
   }, [highlightIndex])
 
   return (
-    <div className="flex h-full w-[min(100vw,480px)] shrink-0 flex-col border-l border-border bg-card">
+    <div className="flex h-full w-[min(100vw,480px)] flex-col bg-card">
       <header className="flex items-center justify-between gap-2 border-b border-border px-4 py-3">
         <div className="flex min-w-0 items-center gap-2">
           <BookOpenIcon className="size-4 shrink-0 text-muted-foreground" />
@@ -494,136 +494,140 @@ export function RagflowChatView({
     if (id) onChangeChat(id)
   }, [customChatId, onChangeChat])
 
+  const panelKey = panelData
+    ? `${panelData.title}::${panelData.highlightIndex ?? ""}`
+    : ""
+
   return (
-    <div className="flex h-[calc(100dvh-0px)]">
-      {/* -------- Chat column -------- */}
-      <div className="flex min-w-0 flex-1 flex-col bg-background">
-        <header className="flex shrink-0 flex-col gap-3 border-b border-border px-4 py-3 sm:flex-row sm:items-center sm:justify-between sm:px-6">
-          <div className="flex min-w-0 items-center gap-3">
-            <Button
-              type="button"
-              variant="outline"
-              size="icon"
-              className="shrink-0 rounded-full"
-              onClick={onClose}
-              aria-label="Retour au tableau de bord"
+    <div className="flex h-[calc(100dvh-0px)] flex-col bg-background">
+      <header className="flex shrink-0 flex-col gap-3 border-b border-border px-4 py-3 sm:flex-row sm:items-center sm:justify-between sm:px-6">
+        <div className="flex min-w-0 items-center gap-3">
+          <Button
+            type="button"
+            variant="outline"
+            size="icon"
+            className="shrink-0 rounded-full"
+            onClick={onClose}
+            aria-label="Retour au tableau de bord"
+          >
+            <ArrowLeftIcon className="size-4" />
+          </Button>
+          <div className="min-w-0">
+            <h1
+              className="truncate text-lg font-medium leading-tight sm:text-xl"
+              style={{ fontFamily: "var(--font-heading)" }}
             >
-              <ArrowLeftIcon className="size-4" />
-            </Button>
-            <div className="min-w-0">
-              <h1
-                className="truncate text-lg font-medium leading-tight sm:text-xl"
-                style={{ fontFamily: "var(--font-heading)" }}
-              >
-                Dialogue
-              </h1>
-              <p className="truncate text-xs text-muted-foreground">
-                {preset?.description ?? "Assistant RAGFlow personnalisé"}
-              </p>
-            </div>
+              Dialogue
+            </h1>
+            <p className="truncate text-xs text-muted-foreground">
+              {preset?.description ?? "Assistant RAGFlow personnalisé"}
+            </p>
           </div>
-
-          <div className="flex flex-wrap items-center gap-2 sm:justify-end">
-            <Select
-              value={
-                assistants.some((p) => p.id === chatId) ? chatId : "__custom__"
-              }
-              onValueChange={(v) => {
-                if (v !== "__custom__") onChangeChat(v)
-              }}
-            >
-              <SelectTrigger className="h-9 w-[min(100%,240px)] rounded-xl border-border bg-card text-left text-sm">
-                <SelectValue placeholder="Choisir un assistant" />
-              </SelectTrigger>
-              <SelectContent className="rounded-xl">
-                {assistants.map((p) => (
-                  <SelectItem key={p.id} value={p.id} className="rounded-lg">
-                    {p.label}
-                  </SelectItem>
-                ))}
-                <SelectItem
-                  value="__custom__"
-                  disabled
-                  className="rounded-lg opacity-60"
-                >
-                  ID personnalisé (options avancées)
-                </SelectItem>
-              </SelectContent>
-            </Select>
-            <Button
-              type="button"
-              variant="ghost"
-              size="sm"
-              className="h-9 gap-1 rounded-full text-muted-foreground"
-              onClick={resetConversation}
-            >
-              <RotateCcwIcon className="size-3.5" />
-              Nouvelle conversation
-            </Button>
-          </div>
-        </header>
-
-        <div className="border-b border-border/80 bg-muted/30 px-4 py-2.5 sm:px-6">
-          <details className="group text-sm">
-            <summary className="flex cursor-pointer list-none items-center gap-1 text-muted-foreground transition-colors hover:text-foreground">
-              <ChevronDownIcon className="size-4 transition-transform group-open:rotate-180" />
-              Options avancées
-            </summary>
-            <div className="mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-              <div className="space-y-1.5">
-                <Label htmlFor="slug-filter" className="text-xs">
-                  Filtre slug œuvre
-                </Label>
-                <Input
-                  id="slug-filter"
-                  className="h-9 rounded-xl font-mono text-xs"
-                  placeholder="ex. les-miserables"
-                  value={slugFilter}
-                  onChange={(e) => setSlugFilter(e.target.value)}
-                />
-              </div>
-              <div className="space-y-1.5">
-                <Label htmlFor="oeuvre-hint" className="text-xs">
-                  Indice titre (prompt)
-                </Label>
-                <Input
-                  id="oeuvre-hint"
-                  className="h-9 rounded-xl text-xs"
-                  placeholder="ex. Les Misérables"
-                  value={oeuvreHint}
-                  onChange={(e) => setOeuvreHint(e.target.value)}
-                />
-              </div>
-              <div className="space-y-1.5 sm:col-span-2 lg:col-span-1">
-                <Label htmlFor="custom-chat" className="text-xs">
-                  ID assistant RAGFlow
-                </Label>
-                <div className="flex gap-2">
-                  <Input
-                    id="custom-chat"
-                    className="h-9 rounded-xl font-mono text-xs"
-                    placeholder="UUID…"
-                    value={customChatId}
-                    onChange={(e) => setCustomChatId(e.target.value)}
-                  />
-                  <Button
-                    type="button"
-                    size="sm"
-                    variant="secondary"
-                    className="h-9 shrink-0 rounded-full"
-                    onClick={applyCustomChatId}
-                  >
-                    OK
-                  </Button>
-                </div>
-              </div>
-            </div>
-          </details>
         </div>
 
+        <div className="flex flex-wrap items-center gap-2 sm:justify-end">
+          <Select
+            value={
+              assistants.some((p) => p.id === chatId) ? chatId : "__custom__"
+            }
+            onValueChange={(v) => {
+              if (v !== "__custom__") onChangeChat(v)
+            }}
+          >
+            <SelectTrigger className="h-9 w-[min(100%,240px)] rounded-xl border-border bg-card text-left text-sm">
+              <SelectValue placeholder="Choisir un assistant" />
+            </SelectTrigger>
+            <SelectContent className="rounded-xl">
+              {assistants.map((p) => (
+                <SelectItem key={p.id} value={p.id} className="rounded-lg">
+                  {p.label}
+                </SelectItem>
+              ))}
+              <SelectItem
+                value="__custom__"
+                disabled
+                className="rounded-lg opacity-60"
+              >
+                ID personnalisé (options avancées)
+              </SelectItem>
+            </SelectContent>
+          </Select>
+          <Button
+            type="button"
+            variant="ghost"
+            size="sm"
+            className="h-9 gap-1 rounded-full text-muted-foreground"
+            onClick={resetConversation}
+          >
+            <RotateCcwIcon className="size-3.5" />
+            Nouvelle conversation
+          </Button>
+        </div>
+      </header>
+
+      <div className="border-b border-border/80 bg-muted/30 px-4 py-2.5 sm:px-6">
+        <details className="group text-sm">
+          <summary className="flex cursor-pointer list-none items-center gap-1 text-muted-foreground transition-colors hover:text-foreground">
+            <ChevronDownIcon className="size-4 transition-transform group-open:rotate-180" />
+            Options avancées
+          </summary>
+          <div className="mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="space-y-1.5">
+              <Label htmlFor="slug-filter" className="text-xs">
+                Filtre slug œuvre
+              </Label>
+              <Input
+                id="slug-filter"
+                className="h-9 rounded-xl font-mono text-xs"
+                placeholder="ex. les-miserables"
+                value={slugFilter}
+                onChange={(e) => setSlugFilter(e.target.value)}
+              />
+            </div>
+            <div className="space-y-1.5">
+              <Label htmlFor="oeuvre-hint" className="text-xs">
+                Indice titre (prompt)
+              </Label>
+              <Input
+                id="oeuvre-hint"
+                className="h-9 rounded-xl text-xs"
+                placeholder="ex. Les Misérables"
+                value={oeuvreHint}
+                onChange={(e) => setOeuvreHint(e.target.value)}
+              />
+            </div>
+            <div className="space-y-1.5 sm:col-span-2 lg:col-span-1">
+              <Label htmlFor="custom-chat" className="text-xs">
+                ID assistant RAGFlow
+              </Label>
+              <div className="flex gap-2">
+                <Input
+                  id="custom-chat"
+                  className="h-9 rounded-xl font-mono text-xs"
+                  placeholder="UUID…"
+                  value={customChatId}
+                  onChange={(e) => setCustomChatId(e.target.value)}
+                />
+                <Button
+                  type="button"
+                  size="sm"
+                  variant="secondary"
+                  className="h-9 shrink-0 rounded-full"
+                  onClick={applyCustomChatId}
+                >
+                  OK
+                </Button>
+              </div>
+            </div>
+          </div>
+        </details>
+      </div>
+
+      {/* -------- Messages + Reference panel split -------- */}
+      <div className="flex min-h-0 flex-1">
         <div
           ref={scrollRef}
-          className="min-h-0 flex-1 overflow-y-auto scroll-smooth px-4 py-6 sm:px-6"
+          className="min-h-0 min-w-0 flex-1 overflow-y-auto scroll-smooth px-4 py-6 sm:px-6"
         >
           <div className="mx-auto flex max-w-3xl flex-col gap-6">
             {messages.length === 0 && !thinking && (
@@ -708,54 +712,76 @@ export function RagflowChatView({
           </div>
         </div>
 
-        {SHOW_DEBUG && debugLines.length > 0 && (
-          <div className="max-h-40 shrink-0 overflow-y-auto border-t border-green-800 bg-black px-3 py-2 font-mono text-[10px] leading-tight text-green-400">
-            {debugLines.map((l, i) => (
-              <div key={i}>{l}</div>
-            ))}
-          </div>
-        )}
-
-        <footer className="shrink-0 border-t border-border bg-card/80 px-4 py-3 backdrop-blur-sm sm:px-6">
-          <div className="mx-auto flex max-w-3xl gap-2">
-            <textarea
-              ref={textareaRef}
-              rows={1}
-              className="min-h-11 flex-1 resize-none rounded-xl border border-input bg-background px-3 py-2.5 text-sm shadow-sm outline-none transition-[box-shadow] placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50"
-              placeholder="Votre question…"
-              value={input}
-              disabled={sending}
-              onChange={(e) => setInput(e.target.value)}
-              onKeyDown={(e) => {
-                if (e.key === "Enter" && !e.shiftKey) {
-                  e.preventDefault()
-                  void sendMessage()
-                }
-              }}
-            />
-            <Button
-              type="button"
-              size="icon"
-              className="h-11 w-11 shrink-0 rounded-full"
-              disabled={sending || !input.trim()}
-              onClick={() => void sendMessage()}
-              aria-label="Envoyer"
+        {/* -------- Reference panel (inside messages area) -------- */}
+        <AnimatePresence mode="wait">
+          {panelData && (
+            <motion.div
+              key="ref-panel"
+              initial={{ width: 0, opacity: 0 }}
+              animate={{ width: "min(100vw, 480px)", opacity: 1 }}
+              exit={{ width: 0, opacity: 0 }}
+              transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
+              className="shrink-0 overflow-hidden border-l border-border"
             >
-              <SendIcon className="size-4" />
-            </Button>
-          </div>
-        </footer>
+              <AnimatePresence mode="wait">
+                <motion.div
+                  key={panelKey}
+                  initial={{ opacity: 0, x: 40 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  exit={{ opacity: 0, x: -20 }}
+                  transition={{ duration: 0.25, ease: "easeOut" }}
+                  className="h-full"
+                >
+                  <ReferencePanel
+                    title={panelData.title}
+                    chunks={panelData.chunks}
+                    highlightIndex={panelData.highlightIndex}
+                    onClose={() => setPanelData(null)}
+                  />
+                </motion.div>
+              </AnimatePresence>
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
 
-      {/* -------- Reference panel -------- */}
-      {panelData && (
-        <ReferencePanel
-          title={panelData.title}
-          chunks={panelData.chunks}
-          highlightIndex={panelData.highlightIndex}
-          onClose={() => setPanelData(null)}
-        />
+      {SHOW_DEBUG && debugLines.length > 0 && (
+        <div className="max-h-40 shrink-0 overflow-y-auto border-t border-green-800 bg-black px-3 py-2 font-mono text-[10px] leading-tight text-green-400">
+          {debugLines.map((l, i) => (
+            <div key={i}>{l}</div>
+          ))}
+        </div>
       )}
+
+      <footer className="shrink-0 border-t border-border bg-card/80 px-4 py-3 backdrop-blur-sm sm:px-6">
+        <div className="mx-auto flex max-w-3xl gap-2">
+          <textarea
+            ref={textareaRef}
+            rows={1}
+            className="min-h-11 flex-1 resize-none rounded-xl border border-input bg-background px-3 py-2.5 text-sm shadow-sm outline-none transition-[box-shadow] placeholder:text-muted-foreground focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50"
+            placeholder="Votre question…"
+            value={input}
+            disabled={sending}
+            onChange={(e) => setInput(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === "Enter" && !e.shiftKey) {
+                e.preventDefault()
+                void sendMessage()
+              }
+            }}
+          />
+          <Button
+            type="button"
+            size="icon"
+            className="h-11 w-11 shrink-0 rounded-full"
+            disabled={sending || !input.trim()}
+            onClick={() => void sendMessage()}
+            aria-label="Envoyer"
+          >
+            <SendIcon className="size-4" />
+          </Button>
+        </div>
+      </footer>
     </div>
   )
 }
