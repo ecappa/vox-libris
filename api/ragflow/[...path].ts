@@ -40,14 +40,25 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
   const targetUrl = `${RAGFLOW_BASE}/${ragflowPath}${qs ? `?${qs}` : ""}`
 
   try {
-    const response = await fetch(targetUrl, {
-      method: req.method,
+    const method = (req.method ?? "GET").toUpperCase()
+    const init: RequestInit = {
+      method,
       headers: {
         Authorization: `Bearer ${apiKey}`,
         "Content-Type": "application/json",
       },
-      ...(req.method !== "GET" && req.body ? { body: JSON.stringify(req.body) } : {}),
-    })
+    }
+    // Vercel peut fournir un body sur GET ; RAGFlow rejette alors des champs « path » / extra inputs.
+    if (
+      ["POST", "PUT", "PATCH", "DELETE"].includes(method) &&
+      req.body !== undefined &&
+      req.body !== ""
+    ) {
+      init.body =
+        typeof req.body === "string" ? req.body : JSON.stringify(req.body)
+    }
+
+    const response = await fetch(targetUrl, init)
 
     const data = await response.text()
     res.setHeader("Content-Type", "application/json")
